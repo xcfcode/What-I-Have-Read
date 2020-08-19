@@ -83,6 +83,7 @@
 | Text Summarization through Entailment-based Minimum Vertex Cover|ENLG13|
 |[Domain-Independent Abstract Generation for Focused Meeting Summarization](https://www.aclweb.org/anthology/P13-1137.pdf)|ACL13||
 | Summarizing Decisions in Spoken Meetings | ACL11 |
+|[Automatic analysis of multiparty meetings](https://link.springer.com/article/10.1007/s12046-011-0051-3)|11|
 |[A keyphrase based approach to interactive meeting summarization](https://ieeexplore.ieee.org/document/4777863)|08||key phrase guide
 |[Focused Meeting Summarization via Unsupervised Relation Extraction](https://www.aclweb.org/anthology/W12-1642.pdf)||
 |Exploring Speaker Characteristics for Meeting Summarization|10|
@@ -309,8 +310,9 @@
 
 
 ## Multi-modal
-| Paper | Conference |
-| :---: | :---: |
+| Paper | Conference |Highlights|
+| :---: | :---: | :---: |
+|[Text-Image-Video Summary Generation Using Joint Integer Linear Programming](https://link.springer.com/chapter/10.1007/978-3-030-45442-5_24)|ECIR2020|generating an extractive multimodal output containing text, images and videos from a multi-modal input|
 |[Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiH.902.pdf)|AAAI20|
 |[Convolutional Hierarchical Attention Network for Query-Focused Video Summarization](https://arxiv.org/abs/2002.03740)|AAAI20|
 |[Multimodal Summarization with Guidance of Multimodal Reference](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhuJ.1133.pdf)|AAAI20|
