@@ -33,6 +33,7 @@
 * [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
 * [EMNLP19 Summarization](slides/notes/EMNLP19_Summarization.pdf)
 * [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf)
+* [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf)
 
 ### Presentation
 * [Data Augmentation](slides/presentation/Data_Augmentation.pdf)

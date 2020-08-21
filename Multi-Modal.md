@@ -11,6 +11,7 @@
 |[VATEX:A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](https://arxiv.org/abs/1904.03493)|ICCV19|
 |[Multimodal Abstractive Summarization for How2 Videos](https://www.aclweb.org/anthology/P19-1659/)|ACL19|
 |[Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://arxiv.org/abs/1811.09362)|AAAI19|
+|[M3B corpus: multi-modal meeting behavior corpus for group meeting assessment](https://dl.acm.org/doi/abs/10.1145/3341162.3345588)|19|
 |[How2:A Large-scale Dataset for Multimodal Language Understanding](https://arxiv.org/abs/1811.00347)|NIPS18|
 |[Attention Strategies for Multi-Source Sequence-to-Sequence Learning](https://arxiv.org/abs/1704.06567)|ACL17|
 

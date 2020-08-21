@@ -34,6 +34,7 @@
 * [Others](#others-1)
 
 ## Slides
+* [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf)
 * [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf)
 * [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
 * [文本摘要简述](slides/presentation/文本摘要简述.pdf)
@@ -92,7 +93,7 @@
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Exploring Methods for Predicting Important Utterances Contributing to Meeting Summarization](https://www.mdpi.com/2414-4088/3/3/50)|19|☆|
-| Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization| ACL19 |
+| [Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization](https://www.aclweb.org/anthology/P19-1210/)| ACL19 |
 |[Fusing Verbal and Nonverbal Information for Extractive Meeting Summarization](https://dl.acm.org/doi/10.1145/3279981.3279987)|GIFT18|
 |[Meeting Extracts for Discussion Summarization Based on Multimodal Nonverbal Information](https://dl.acm.org/doi/10.1145/2993148.2993160)|ICMI16|
 | [Multimodal Summarization of Meeting Recordings](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.862.6509&rep=rep1&type=pdf)|ICME 2003|
@@ -112,6 +113,7 @@
 ### Email
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Building a Dataset for Summarization and Keyword Extraction from Emails|2014|349 emails and threads](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf) (137 threads)|
 |[Task-focused Summarization of Email](https://www.aclweb.org/anthology/W04-1008.pdf)|2004|
 
 ### News Review
@@ -268,8 +270,8 @@
 <!--|Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|-->
 
 ## Dataset
-|ID|Name|Description|Paper|Conference |
-|:---:|:---:|:---:|:---:|:---:|
+|ID|Name|Description|Paper|Conference|Highlights|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | CNN\-DailyMail | 新闻领域摘要| Abstractive Text Summarization using Sequence\-to\-sequence RNNs and Beyond |
 | 2 | New York Times| 新闻领域摘要 | The New York Times Annotated Corpus |
 | 3 | DUC| 新闻领域摘要 | The Effects Of Human Variation In DUC Summarization Evaluation |
@@ -307,6 +309,9 @@
 |35|Gazeta|俄语新闻|[Dataset for Automatic Summarization of Russian News](https://arxiv.org/pdf/2006.11063.pdf)||
 |36|MIND|英文新闻推荐，标题生成，摘要，类别分类，实体信息|[MIND: A Large-scale Dataset for News Recommendation](https://msnews.github.io/assets/doc/ACL2020_MIND.pdf)|ACL20|
 |37|public_meetings|法语会议（只是测试集）|[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation)|LREC|
+|38|Enron|Email|[Building a Dataset for Summarization and Keyword Extraction from Emails](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf)|2014| 349 emails and threads|
+|39|Columbia|Email|[Summarizing Email Threads](https://www.aclweb.org/anthology/N04-4027.pdf)|2004|96 email threads,average of 3.25 email|
+|40|BC3|Email||[A publicly available annotated corpus for supervised email summarization.](https://www.ufv.ca/media/assets/computer-information-systems/gabriel-murray/publications/aaai08.pdf)|40 email threads (3222 sentences)|
 
 
 ## Multi-modal
