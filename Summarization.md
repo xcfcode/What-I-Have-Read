@@ -137,6 +137,7 @@
 ## Factuality 
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)|||
 |[Fact-based Content Weighting for Evaluating Abstractive Summarisation](https://www.aclweb.org/anthology/2020.acl-main.455/)|ACL20|
 |[On Faithfulness and Factuality in Abstractive Summarization](https://arxiv.org/abs/2005.00661)|ACL20||
 |[Improving Truthfulness of Headline Generation](https://arxiv.org/abs/2005.00882)|ACL20||
@@ -405,6 +406,7 @@
 ## Others
 | Paper | Conference |
 | :---: | :---: |
+|[Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)||
 |[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
 |[StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)||
 |Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning|WWW20|
