@@ -75,7 +75,7 @@
 ### Meeting
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-|Meeting Summarization, A Challenge for Deep Learning||
+|[Meeting Summarization, A Challenge for Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-20521-8_53)||
 |[End-to-End Abstractive Summarization for Meetings](https://arxiv.org/abs/2004.02016)|2020|Meeting|
 | [Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning](https://dl.acm.org/doi/10.1145/3308558.3313619) | WWW19 |
 | [Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts](https://arxiv.org/abs/1809.05715) | SLT18 |
@@ -115,7 +115,7 @@
 ### Email
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-|[Building a Dataset for Summarization and Keyword Extraction from Emails|2014|349 emails and threads](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf) (137 threads)|
+|[Building a Dataset for Summarization and Keyword Extraction from Emails](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf)|2014|349 emails and threads 137 threads|
 |[Task-focused Summarization of Email](https://www.aclweb.org/anthology/W04-1008.pdf)|2004|
 
 ### News Review
