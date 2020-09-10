@@ -92,10 +92,12 @@
 #### Multi-modal
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[A Multimodal Meeting Browser that Implements an Important Utterance Detection Model based on Multimodal Information](https://dl.acm.org/doi/abs/10.1145/3379336.3381491)|||
 |[Exploring Methods for Predicting Important Utterances Contributing to Meeting Summarization](https://www.mdpi.com/2414-4088/3/3/50)|19|☆|
 | [Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization](https://www.aclweb.org/anthology/P19-1210/)| ACL19 |
 |[Fusing Verbal and Nonverbal Information for Extractive Meeting Summarization](https://dl.acm.org/doi/10.1145/3279981.3279987)|GIFT18|
 |[Meeting Extracts for Discussion Summarization Based on Multimodal Nonverbal Information](https://dl.acm.org/doi/10.1145/2993148.2993160)|ICMI16|
+|[Extractive Summarization of Meeting Recordings](https://pdfs.semanticscholar.org/6159/506bdd368fff24dd12e5c6ed91ba05b44f9e.pdf)|2005|
 | [Multimodal Summarization of Meeting Recordings](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.862.6509&rep=rep1&type=pdf)|ICME 2003|
 
 ### Open Domain
@@ -356,8 +358,6 @@
 |Learning towards Abstractive Timeline Summarization|IJCAI19|
 
 
-
-
 ## Opinion
 | Paper | Conference |
 | :---: | :---: |
@@ -371,7 +371,6 @@
 ## Reinforcement Learning
 | Paper | Conference |
 | :---: | :---: |
-|||
 |Answers Unite! Unsupervised Metrics for Reinforced Summarization Models|EMNLP19|
 |Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization|EMNLP19|
 | Reinforced Extractive Summarization with Question-Focused Rewards|ACL18|
@@ -379,6 +378,12 @@
 | Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
 | Ranking Sentences for Extractive Summarization with Reinforcement Learning|NAACL18|
 | A Deep Reinforced Model For Abstractive Summarization|ICLR18|
+
+## Reward Learning
+| Paper | Conference |
+| :---: | :---: |
+|[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)||
+|[Better Rewards Yield Better Summaries: Learning to Summarise Without References](https://arxiv.org/abs/1909.01214)|EMNLP19|
 
 ## Sentence Summarization
 | Paper | Conference |
