@@ -69,7 +69,7 @@
 ### French Meeting
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-|[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation)|LREC2020|French public_meetings 22 meetings 1060 pairs|
+|[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](https://www.aclweb.org/anthology/2020.lrec-1.829)|LREC2020|French public_meetings 22 meetings 1060 pairs|
 |[Leverage Unlabeled Data for Abstractive Speech Summarization with Self-Supervised Learning and Back-Summarization](https://arxiv.org/abs/2007.15296)|SPECOM2020|French meeting summarization|
 
 ### Meeting
