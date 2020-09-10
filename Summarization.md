@@ -77,17 +77,17 @@
 | :---: | :---: | :---: |
 |Meeting Summarization, A Challenge for Deep Learning||
 |[End-to-End Abstractive Summarization for Meetings](https://arxiv.org/abs/2004.02016)|2020|Meeting|
-| Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning | WWW19 |
-| Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts | SLT18 |
-| Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization | ACL18|
-| Abstractive Meeting Summarization Using Dependency Graph Fusion | WWW15 |
-| Text Summarization through Entailment-based Minimum Vertex Cover|ENLG13|
+| [Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning](https://dl.acm.org/doi/10.1145/3308558.3313619) | WWW19 |
+| [Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts](https://arxiv.org/abs/1809.05715) | SLT18 |
+| [Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization](https://arxiv.org/abs/1805.05271) | ACL18|
+| [Abstractive Meeting Summarization Using Dependency Graph Fusion](https://arxiv.org/abs/1609.07035) | WWW15 |
+| [Text Summarization through Entailment-based Minimum Vertex Cover](https://www.aclweb.org/anthology/S14-1010/)|ENLG13|
 |[Domain-Independent Abstract Generation for Focused Meeting Summarization](https://www.aclweb.org/anthology/P13-1137.pdf)|ACL13||
-| Summarizing Decisions in Spoken Meetings | ACL11 |
+| [Summarizing Decisions in Spoken Meetings](https://arxiv.org/abs/1606.07965) | ACL11 |
 |[Automatic analysis of multiparty meetings](https://link.springer.com/article/10.1007/s12046-011-0051-3)|11|
 |[A keyphrase based approach to interactive meeting summarization](https://ieeexplore.ieee.org/document/4777863)|08||key phrase guide
 |[Focused Meeting Summarization via Unsupervised Relation Extraction](https://www.aclweb.org/anthology/W12-1642.pdf)||
-|Exploring Speaker Characteristics for Meeting Summarization|10|
+|[Exploring Speaker Characteristics for Meeting Summarization](https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_2518.pdf)|10|
 
 #### Multi-modal
 | Paper | Conference | Highlights |
@@ -103,14 +103,14 @@
 ### Open Domain
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-|SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization|EMNLP19|Chit-chat|
+|[SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization](https://arxiv.org/abs/1911.12237)|EMNLP19|Chit-chat|
 |[Making Sense of Group Chat through Collaborative Tagging and Summarization](https://homes.cs.washington.edu/~axz/papers/cscw_tilda.pdf)|CSCW18|System, Best paper award, Structured summary by tags and notes|
 |[Collabot: Personalized Group Chat Summarization](https://dl.acm.org/doi/10.1145/3159652.3160588)|WSDM18|
 
 ### Customer Service
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-| Automatic Dialogue Summary Generation for Customer Service |KDD19|
+| [Automatic Dialogue Summary Generation for Customer Service](https://dl.acm.org/doi/10.1145/3292500.3330683) |KDD19|
 
 ### Email
 | Paper | Conference | Highlights |
