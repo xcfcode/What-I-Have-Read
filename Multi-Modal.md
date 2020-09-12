@@ -2,6 +2,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|[Towards Emotion-aided Multi-modal Dialogue Act Classification](https://www.aclweb.org/anthology/2020.acl-main.402/)|ACL20||
 |[Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/abs/1908.06066)|AAAI20|
 |[Storytelling from an Image Stream Using Scene Graphs](http://www.sdspeople.fudan.edu.cn/zywei/paper/2020/wang-aaai-2020.pdf)|AAAI20|
 |[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/abs/1906.00295)||
