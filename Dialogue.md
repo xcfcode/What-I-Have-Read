@@ -12,6 +12,7 @@
 ## QA
 | Paper | Conference | Highlights |
 | :---: | :---: | :--- |
+|[Fast Prototyping a Dialogue Comprehension System for Nurse-Patient Conversations on Symptom Monitoring](https://arxiv.org/abs/1903.03530)|NAACL19||
 |[Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering](https://arxiv.org/abs/2004.03561)|ACL20|**Pre-train**: Token-level MLM, Utterance-level MLM, Utterance order prediction **Fine-tune:** Utterance ID Prediction, Token Span Prediction|
 
 ## Dataset
