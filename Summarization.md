@@ -116,6 +116,7 @@
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Building a Dataset for Summarization and Keyword Extraction from Emails](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf)|2014|349 emails and threads 137 threads|
+|[Summarizing Online Conversations A Machine Learning Approach](http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.8b32440f2dc771c4.323031325f414e445f43616d6572612e706466.pdf)|2010||
 |[Task-focused Summarization of Email](https://www.aclweb.org/anthology/W04-1008.pdf)|2004|
 
 ### News Review
@@ -163,6 +164,7 @@
 ## Emotion related
 | Paper | Conference | 
 | :---: | :---: |
+|[A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss](https://www.semanticscholar.org/paper/A-Unified-Dual-view-Model-for-Review-Summarization-Chan-Chen/b7adfe431e522519388a2276772f99f98934f669)|SIGIR20|
 |[A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification](https://arxiv.org/abs/1805.01089)|IJCAI18|
 |[Two-level Text Summarization from Online News Sources with Sentiment Analysis](https://ieeexplore.ieee.org/document/80767)|IEEE17|
 |Creating Video Summarization From Emotion Perspective|ICSP16|
