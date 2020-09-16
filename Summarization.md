@@ -149,6 +149,7 @@
 |[Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/abs/1911.02541)|ACL20||
 |[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
 |[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||Information Extraction --> Local knowledge Graph|
+|[Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/abs/2002.02095)|AAAI20|
 |[Ranking Generated Summaries by Correctness : An Interesting but Challenging Application for Natural Language Inference](https://www.aclweb.org/anthology/P19-1213/)|ACL19||
 |[Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|||
 |[Assessing The Factual Accuracy of Generated Text](https://arxiv.org/abs/1905.13322)|KDD19||
