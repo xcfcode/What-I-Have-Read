@@ -33,6 +33,8 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|[Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)||
+|[Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)||
 |[Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://arxiv.org/abs/2004.10964)|ACL20|
 |Make Lead Bias in Your Favor : A Simple and Effective Method for News Summarization||
 |DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation||
