@@ -4,6 +4,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|[Noisy Self-Knowledge Distillation for Text Summarization](https://arxiv.org/abs/2009.07032)||
 |[Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829)|ACL20|
 |[Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://www.aclweb.org/anthology/P19-1305/)|ACL19|
 | [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136) | |
