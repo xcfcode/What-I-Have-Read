@@ -75,6 +75,7 @@
 ### Meeting
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/MeetingNet_EMNLP_full.pdf)|EMNLP20|news data pre-training|
 |[Meeting Summarization, A Challenge for Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-20521-8_53)||
 |[End-to-End Abstractive Summarization for Meetings](https://arxiv.org/abs/2004.02016)|2020|Meeting|
 | [Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning](https://dl.acm.org/doi/10.1145/3308558.3313619) | WWW19 |
