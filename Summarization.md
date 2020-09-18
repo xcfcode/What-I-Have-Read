@@ -324,6 +324,7 @@
 ## Multi-modal
 | Paper | Conference |Highlights|
 | :---: | :---: | :---: |
+|[Multi-modal Summarization for Video-containing Documents](https://arxiv.org/abs/2009.08018)|||
 |[Text-Image-Video Summary Generation Using Joint Integer Linear Programming](https://link.springer.com/chapter/10.1007/978-3-030-45442-5_24)|ECIR2020|generating an extractive multimodal output containing text, images and videos from a multi-modal input|
 |[Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiH.902.pdf)|AAAI20|
 |[Convolutional Hierarchical Attention Network for Query-Focused Video Summarization](https://arxiv.org/abs/2002.03740)|AAAI20|
