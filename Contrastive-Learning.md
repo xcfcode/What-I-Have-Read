@@ -7,6 +7,7 @@
 ## Papers
 | Paper | Conference | Domain |
 | :---: | :---: | :---: |
+|[Group-wise Contrastive Learning for Neural Dialogue Generation](https://arxiv.org/abs/2009.07543)|EMNLP20||
 |[Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models](https://arxiv.org/pdf/2005.10389.pdf)|ACL20|NLP|
 |[Contrastive Self-Supervised Learning for Commonsense Reasoning](https://arxiv.org/abs/2005.12766)|ACL20|NLP|
 |[CERT: Contrastive Self-supervised Learning for Language Understanding](https://arxiv.org/pdf/2005.12766.pdf)||NLP|

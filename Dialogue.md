@@ -30,6 +30,7 @@
 ## Dialogue Generation
 | Paper | Conference | Highlights |
 | :---: | :---: | :--- |
+|[Group-wise Contrastive Learning for Neural Dialogue Generation](https://arxiv.org/abs/2009.07543)|EMNLP20||
 |[Generate, Delete and Rewrite : A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation](https://arxiv.org/abs/2004.07672)|ACL20||
 
 ## Meeting
