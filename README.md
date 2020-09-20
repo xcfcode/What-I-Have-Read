@@ -45,6 +45,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [EMNLP20-Group-wise Contrastive Learning for Neural Dialogue Generation](slides/paper-slides/group-wise-contrastive-learning-for-neural-dialogue-generation.pdf)
 * [WWW20-Heterogeneous Graph Transformer](slides/paper-slides/Heterogeneous-Graph-Transformer.pdf)
 * [ICLR20-Plug and Play Language Model- A Simple Baseline for Controlled Language Generation](slides/paper-slides/Plug%20and%20Play%20Language%20Model-%20A%20Simple%20Baseline%20for%20Controlled%20Language%20Generation.pdf)
 * [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf)
