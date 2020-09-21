@@ -60,6 +60,7 @@
 ### Medical
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Dr. Summarize: Global Summarization of Medical Dialogue by Exploiting Local Structures](https://arxiv.org/abs/2009.08666)|EMNLP20 findings||
 |[Medical Dialogue Summarization for Automated Reporting in Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7225507/)|2020|triple extraction, SOAP notes, Pipeline|
 |[Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation](https://www.aclweb.org/anthology/2020.lrec-1.52/)|LREC2020||
 |[Generating SOAP Notes from Doctor-Patient Conversations](https://arxiv.org/pdf/2005.01795.pdf)|2020|Doctor-Patient Conversations, SOAP notes, Extractive+Abstractive|
