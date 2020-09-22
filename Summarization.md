@@ -65,7 +65,7 @@
 |[Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation](https://www.aclweb.org/anthology/2020.lrec-1.52/)|LREC2020||
 |[Generating SOAP Notes from Doctor-Patient Conversations](https://arxiv.org/pdf/2005.01795.pdf)|2020|Doctor-Patient Conversations, SOAP notes, Extractive+Abstractive|
 |[Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations](https://www.aclweb.org/anthology/W19-1918/)|NAACL19|
-| Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations |ASRU19 |
+| [Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations](https://arxiv.org/abs/1910.01335) |ASRU19 |
 
 ### French Meeting
 | Paper | Conference | Highlights |
@@ -86,7 +86,6 @@
 |[Generating Abstractive Summaries from Meeting Transcripts](https://arxiv.org/abs/1609.07033)|||
 |[Automatic Community Creation for Abstractive Spoken Conversation Summarization](https://www.aclweb.org/anthology/W17-4506/)|ACL17 workshop||
 | [Abstractive Meeting Summarization Using Dependency Graph Fusion](https://arxiv.org/abs/1609.07035) | WWW15 |
-| [Text Summarization through Entailment-based Minimum Vertex Cover](https://www.aclweb.org/anthology/S14-1010/)|ENLG13|
 |[Domain-Independent Abstract Generation for Focused Meeting Summarization](https://www.aclweb.org/anthology/P13-1137.pdf)|ACL13||
 | [Summarizing Decisions in Spoken Meetings](https://arxiv.org/abs/1606.07965) | ACL11 |
 |[Automatic analysis of multiparty meetings](https://link.springer.com/article/10.1007/s12046-011-0051-3)|11|
@@ -502,6 +501,8 @@
 | A Neural Attention Model for Abstractive Sentence Summarization|EMNLP15|
 | Toward Abstractive Summarization Using Semantic Representations|NAACL15|
 | Abstractive Meeting Summarization with Entailment and Fusion||
+| [Text Summarization through Entailment-based Minimum Vertex Cover](https://www.aclweb.org/anthology/S14-1010/)|ENLG13|
+
 
 
 
