@@ -95,6 +95,7 @@
 |[Automatic Summarization of Conversational Multi-Party Speech](https://www.aaai.org/Papers/AAAI/2006/AAAI06-335.pdf)|AAAI06||
 |[Focused Meeting Summarization via Unsupervised Relation Extraction](https://www.aclweb.org/anthology/W12-1642.pdf)||
 |[Exploring Speaker Characteristics for Meeting Summarization](https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_2518.pdf)|10|
+|[A global optimization framework for meeting summarization](https://ieeexplore.ieee.org/document/4960697)|06|
 |[Semantic Similarity Applied to Spoken Dialogue Summarization](https://www.semanticscholar.org/paper/Semantic-Similarity-Applied-to-Spoken-Dialogue-Gurevych-Strube/5d7e179f1543108f06f09ba801ae70ba38900c5d)|COLING04|
 
 #### Multi-modal
@@ -326,14 +327,13 @@
 | 31 | Dialogue(Debate)|Argumentative Dialogue Summary Corpus |[Using Summarization to Discover Argument Facets in Online Idealogical Dialog](https://www.aclweb.org/anthology/N15-1046.pdf)|NAACL15|
 |32|WCEP|news multi-document|[A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal](https://arxiv.org/abs/2005.10070)|ACL20 short|
 |33|ArgKP|argument-to-key point mapping|[From Arguments to Key Points: Towards Automatic Argument Summarization](https://arxiv.org/abs/2005.01619)|ACL20|
-|34|CRD3|conversation|Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset|ACL20|
+|34|CRD3|Dialogue|[Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset](https://www.aclweb.org/anthology/2020.acl-main.459/)|2020||
 |35|Gazeta|Russian news|[Dataset for Automatic Summarization of Russian News](https://arxiv.org/pdf/2006.11063.pdf)||
 |36|MIND|english news recommendation, summarization, classification, entity|[MIND: A Large-scale Dataset for News Recommendation](https://msnews.github.io/assets/doc/ACL2020_MIND.pdf)|ACL20|
 |37|public_meetings|french meeting(test set)|[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation)|LREC|
 |38|Enron|Email|[Building a Dataset for Summarization and Keyword Extraction from Emails](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf)|2014| 349 emails and threads|
 |39|Columbia|Email|[Summarizing Email Threads](https://www.aclweb.org/anthology/N04-4027.pdf)|2004|96 email threads,average of 3.25 email|
 |40|BC3|Email|[A publicly available annotated corpus for supervised email summarization.](https://www.ufv.ca/media/assets/computer-information-systems/gabriel-murray/publications/aaai08.pdf)||40 email threads (3222 sentences)|
-|41|CRD3|Dialogue|[Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset](https://www.aclweb.org/anthology/2020.acl-main.459/)|2020||
 
 ## Multi-modal
 | Paper | Conference |Highlights|
