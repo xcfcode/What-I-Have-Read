@@ -27,6 +27,7 @@
 ## Question Generation
 | Paper | Conference |
 | :---: | :---: |
+|[Talk to Papers: Bringing Neural Question Answering to Academic Search](https://arxiv.org/abs/2004.02002)|ACL2020|
 |[QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/pdf/2004.11026.pdf)|ACL20||
 |[Syn-QG Syntactic and Shallow Semantic Rules for Question Generation](https://arxiv.org/abs/2004.08694)|ACL20|
 |Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation|ICLR20|
