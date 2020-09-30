@@ -4,6 +4,7 @@ Slides: [Data Augmentation](slides/presentation/Data_Augmentation.pdf)
 
 | Paper | Conference |
 | :---: | :---: |
+|[Logic-Guided Data Augmentation and Regularization for Consistent Question Answering](https://arxiv.org/pdf/2004.10157.pdf)|ACL20 short|
 |[DARE: Data Augmented Relation Extraction with GPT-2](https://arxiv.org/pdf/2004.13845.pdf)||
 |[Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)||
 | ☆ Data Augmentation using Pre-trained Transformer Models||
