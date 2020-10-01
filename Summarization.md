@@ -156,6 +156,7 @@
 ## Factuality 
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Reducing Quantity Hallucinations in Abstractive Summarization](https://arxiv.org/abs/2009.13312)|EMNLP20||
 |[Looking Beyond Sentence-Level Natural Language Inference for Downstream Tasks](https://arxiv.org/pdf/2009.09099.pdf)|||
 |[Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)|||
 |[Fact-based Content Weighting for Evaluating Abstractive Summarisation](https://www.aclweb.org/anthology/2020.acl-main.455/)|ACL20|
