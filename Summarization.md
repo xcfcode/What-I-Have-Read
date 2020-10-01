@@ -190,6 +190,7 @@
 ## Pre-train Based
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159)|EMNLP20||
 |[QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/pdf/2004.11026.pdf)|ACL20||
 |[PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)|ICML20||
 |[STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)||
@@ -268,29 +269,6 @@
 |Learning to Encode Text as Human-Readable Summaries usingGenerative Adversarial Networks|EMNLP18|
 |Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization|ACL18|
 
-
-<!--## Dataset
-| Paper | Conference |
-| :---: | :---: |
-|[MATINF: A Jointly Labeled Large-Scale Dataset for Classiﬁcation, Question Answering and Summarization](https://arxiv.org/abs/2004.12302)|ACL20|
-|[Learning to Summarize Passages: Mining Passage-Summary Pairs from Wikipedia Revision Histories](https://arxiv.org/abs/2004.02592)||-->
-<!--|GameWikiSum : a Novel Large Multi-Document Summarization Dataset|LREC20|-->
-<!--|Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization|EMNLP19|-->
-<!--|Learning towards Abstractive Timeline Summarization|IJCAI19|-->
-<!--| auto-hMDS: Automatic Construction of a Large Heterogeneous Multilingual Multi-Document Summarization Corpus | |
-| Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
-| NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies||-->
-<!--| TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks | ACL19 |-->
-<!--| BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization  | ACL19 |-->
-<!--| ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientiﬁc Paper Summarization with Citation Networks | AAAI19 |-->
-<!--| Abstractive Summarization of Reddit Posts with Multi-level Memory Networks|NAACL19|-->
-<!--| WikiHow: A Large Scale Text Summarization Dataset ||-->
-<!--| Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization|EMNLP18|-->
-<!--| How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|-->
-<!--| Abstractive Text Summarization by Incorporating Reader Comments|AAAI19|-->
-<!--| Generating Wikipedia By Summarizing Long Sequence | ICLR18 |-->
-<!--|A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents|NAACL18|-->
-<!--|Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|-->
 
 ## Dataset
 |ID|Name|Description|Paper|Conference|Highlights|
