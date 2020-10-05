@@ -104,6 +104,8 @@
 ## Evaluation
 | Paper | Conference |
 | :---: | :---: |
+|[MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://arxiv.org/abs/1909.02622)|EMNLP19|
+|[BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)|ICLR2020|
 |[VizSeq: A Visual Analysis Toolkit for Text Generation Tasks](https://www.aclweb.org/anthology/D19-3043.pdf)||
 
 ## Other
