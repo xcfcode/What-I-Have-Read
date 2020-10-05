@@ -217,6 +217,8 @@
 ## Multi-Document
 | Paper | Conference |
 | :---: | :---: |
+|[Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning](https://arxiv.org/abs/2010.00117)|EMNLP2020|
+|[Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization](https://www.aclweb.org/anthology/2020.acl-main.556/)|ACL2020|
 |[SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](https://arxiv.org/abs/2005.03724)|ACL20||
 |[Leveraging Graph to Improve Abstractive Multi-Document Summarization](https://arxiv.org/abs/2005.10043)|ACL20|
 |GameWikiSum : a Novel Large Multi-Document Summarization Dataset|LREC20|
@@ -410,6 +412,7 @@
 ## Others
 | Paper | Conference |
 | :---: | :---: |
+|[Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary](https://arxiv.org/abs/2010.00490)||
 |[Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)||
 |[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
 |[StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)||
