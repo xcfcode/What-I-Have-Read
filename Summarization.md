@@ -191,6 +191,7 @@
 ## Pre-train Based
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Pre-training for Abstractive Document Summarization by Reinstating Source Text](https://arxiv.org/abs/2004.01853v3)|||
 |[PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159)|EMNLP20||
 |[QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/pdf/2004.11026.pdf)|ACL20||
 |[PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)|ICML20||
