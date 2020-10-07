@@ -413,9 +413,17 @@
 |[Controlling Length in Abstractive Summarization Using a Convolutional Neural Network](https://www.aclweb.org/anthology/D18-1444/)|EMNLP18||
 |[Controlling Output Length in Neural Encoder-Decoders](https://www.aclweb.org/anthology/D16-1140/)|EMNLP16||
 
+
+### Analysis
+| Paper | Conference | Highlights |
+| :---: | :---: | :---: |
+|[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|EMNLP2020||
+
+
 ## Others
 | Paper | Conference |
 | :---: | :---: |
+|[Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744)|EMNLP20|
 |[Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary](https://arxiv.org/abs/2010.00490)||
 |[Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)||
 |[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
