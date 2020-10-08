@@ -405,7 +405,8 @@
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning](https://arxiv.org/abs/2010.01781)|EMNLP20200|
-|[SummEval: Re-evaluating Summarization Evaluation](https://arxiv.org/abs/2007.12626)|||
+|[SacreROUGE: An Open-Source Library for Using and Developing Summarization Evaluation Metrics](https://arxiv.org/abs/2007.05374)||https://github.com/danieldeutsch/sacrerouge|
+|[SummEval: Re-evaluating Summarization Evaluation](https://arxiv.org/abs/2007.12626)||https://github.com/Yale-LILY/SummEval|
 |[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
 
 
