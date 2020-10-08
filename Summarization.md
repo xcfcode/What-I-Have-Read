@@ -64,6 +64,7 @@
 |[Medical Dialogue Summarization for Automated Reporting in Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7225507/)|2020|triple extraction, SOAP notes, Pipeline|
 |[Alignment Annotation for Clinic Visit Dialogue to Clinical Note Sentence Language Generation](https://www.aclweb.org/anthology/2020.lrec-1.52/)|LREC2020||
 |[Generating SOAP Notes from Doctor-Patient Conversations](https://arxiv.org/pdf/2005.01795.pdf)|2020|Doctor-Patient Conversations, SOAP notes, Extractive+Abstractive|
+|[Generating Medical Reports from Patient-Doctor Conversations using Sequence-to-Sequence Models](https://www.aclweb.org/anthology/2020.nlpmc-1.4/)|ACL20 short||
 |[Automatically Generating Psychiatric Case Notes From Digital Transcripts of Doctor-Patient Conversations](https://www.aclweb.org/anthology/W19-1918/)|NAACL19|
 | [Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations](https://arxiv.org/abs/1910.01335) |ASRU19 |
 
@@ -159,7 +160,9 @@
 ## Factuality 
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-|[Reducing Quantity Hallucinations in Abstractive Summarization](https://arxiv.org/abs/2009.13312)|EMNLP20||
+|[Multi-Fact Correction in Abstractive Text Summarization](https://arxiv.org/abs/2010.02443)|EMNLP2020|
+|[Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|EMNLP2020|
+|[Reducing Quantity Hallucinations in Abstractive Summarization](https://arxiv.org/abs/2009.13312)|EMNLP20|
 |[Looking Beyond Sentence-Level Natural Language Inference for Downstream Tasks](https://arxiv.org/pdf/2009.09099.pdf)|||
 |[Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)|||
 |[Fact-based Content Weighting for Evaluating Abstractive Summarisation](https://www.aclweb.org/anthology/2020.acl-main.455/)|ACL20|
@@ -172,7 +175,6 @@
 |[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||Information Extraction --> Local knowledge Graph|
 |[Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/abs/2002.02095)|AAAI20|
 |[Ranking Generated Summaries by Correctness : An Interesting but Challenging Application for Natural Language Inference](https://www.aclweb.org/anthology/P19-1213/)|ACL19||
-|[Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|||
 |[Assessing The Factual Accuracy of Generated Text](https://arxiv.org/abs/1905.13322)|KDD19||
 |[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)|AAAI18|Information Extraction (openIE+dependency) + Generation|
 |[Ensure the Correctness of the Summary : Incorporate Entailment Knowledge into Abstractive Sentence Summarization](https://www.aclweb.org/anthology/C18-1121/)|COLING18||
@@ -246,6 +248,7 @@
 ## Cross-Lingual
 | Paper | Conference |
 | :---: | :---: |
+|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|findings of EMNLP20|
 |[A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards](https://www.aclweb.org/anthology/2020.ngt-1.7/)|ACL20 workshop|
 |[Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization](https://www.aclweb.org/anthology/2020.acl-main.554.pdf)|ACL20|
 |[Attend, Translate and Summarize:An Efficient Method for Neural Cross-Lingual Summarization](https://www.aclweb.org/anthology/2020.acl-main.121.pdf)|ACL20|
@@ -320,6 +323,8 @@
 |38|Enron|Email|[Building a Dataset for Summarization and Keyword Extraction from Emails](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf)|2014| 349 emails and threads|
 |39|Columbia|Email|[Summarizing Email Threads](https://www.aclweb.org/anthology/N04-4027.pdf)|2004|96 email threads,average of 3.25 email|
 |40|BC3|Email|[A publicly available annotated corpus for supervised email summarization.](https://www.ufv.ca/media/assets/computer-information-systems/gabriel-murray/publications/aaai08.pdf)||40 email threads (3222 sentences)|
+|41|WikiLingua|Cross-Lingual|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|findings of EMNLP20|
+
 
 ## Multi-modal
 | Paper | Conference |Highlights|
@@ -399,6 +404,7 @@
 ## Evaluation
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning](https://arxiv.org/abs/2010.01781)|EMNLP20200|
 |[SummEval: Re-evaluating Summarization Evaluation](https://arxiv.org/abs/2007.12626)|||
 |[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
 
@@ -417,7 +423,7 @@
 ### Analysis
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
-|[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|EMNLP2020||
+|[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
 
 
 ## Others
