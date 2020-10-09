@@ -408,6 +408,7 @@
 |[SacreROUGE: An Open-Source Library for Using and Developing Summarization Evaluation Metrics](https://arxiv.org/abs/2007.05374)||https://github.com/danieldeutsch/sacrerouge|
 |[SummEval: Re-evaluating Summarization Evaluation](https://arxiv.org/abs/2007.12626)||https://github.com/Yale-LILY/SummEval|
 |[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
+|[Earlier Isn’t Always Better: Sub-aspect Analysis on Corpus and System Biases in Summarization](https://arxiv.org/abs/1908.11723)|EMNLP19|
 
 
 ## Controlled
@@ -430,6 +431,8 @@
 ## Others
 | Paper | Conference |
 | :---: | :---: |
+|[A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion](https://arxiv.org/abs/2010.03722)|AACL20 short|
+|[Learning to Fuse Sentences with Transformers for Summarization](https://arxiv.org/abs/2010.03726)|EMNLP20 short|
 |[Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744)|EMNLP20|
 |[Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary](https://arxiv.org/abs/2010.00490)||
 |[Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)||
