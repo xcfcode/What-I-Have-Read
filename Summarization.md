@@ -445,7 +445,7 @@
 ## Extractive
 | Paper | Conference |
 | :---: | :---: |
-|[SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy](https://arxiv.org/abs/2010.02568)|EMNLP20|
+|[SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy](https://arxiv.org/abs/2010.02568)||
 |[Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744)|EMNLP20|
 |[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
 | [Extractive Summarization Using Multi-Task Learning with Document Classification](https://www.aclweb.org/anthology/D17-1223/)|EMNLP17| 
