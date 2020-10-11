@@ -1,37 +1,42 @@
 # Summarization
 
-* [Summarization](#summarization)
-* [Slides](#slides)
-* [Survey](#survey)
-* [Dialogue](#dialogue)
-    * [Medical](#medical)
-    * [French Meeting](#french-meeting)
-    * [Meeting](#meeting)
-        * [Multi-modal](#multi-modal)
-    * [Open Domain](#open-domain)
-    * [Customer Service](#customer-service)
-    * [Email](#email)
-    * [News Review](#news-review)
-    * [Others](#others)
-* [Factuality](#factuality)
-* [Graph](#graph)
-* [Emotion related](#emotion-related)
-* [Pre-train Based](#pre-train-based)
-* [Style](#style)
-* [Multi-Document](#multi-document)
-* [Cross-Lingual](#cross-lingual)
-* [Unsupervised](#unsupervised)
-* [Dataset](#dataset)
-* [Multi-modal](#multi-modal-1)
-* [Concept-map-based](#concept-map-based)
-* [Timeline](#timeline)
-* [Opinion](#opinion)
-* [Reinforcement Learning](#reinforcement-learning)
-* [Sentence Summarization](#sentence-summarization)
-* [Evaluation](#evaluation)
-* [Discourse](#discourse)
-* [Controlled](#controlled)
-* [Others](#others-1)
+   * [Summarization](#summarization)
+      * [Slides](#slides)
+      * [Survey](#survey)
+      * [Dialogue](#dialogue)
+         * [Medical](#medical)
+         * [French Meeting](#french-meeting)
+         * [Meeting](#meeting)
+            * [Multi-modal](#multi-modal)
+         * [Open Domain](#open-domain)
+         * [Customer Service](#customer-service)
+         * [Email](#email)
+         * [News Review](#news-review)
+         * [Others](#others)
+      * [Factuality](#factuality)
+      * [Graph](#graph)
+      * [Emotion related](#emotion-related)
+      * [Pre-train Based](#pre-train-based)
+      * [Style](#style)
+      * [Multi-Document](#multi-document)
+      * [Cross-Lingual](#cross-lingual)
+      * [Unsupervised](#unsupervised)
+      * [Dataset](#dataset)
+      * [Multi-modal](#multi-modal-1)
+      * [Concept-map-based](#concept-map-based)
+      * [Timeline](#timeline)
+      * [Opinion](#opinion)
+      * [Reinforcement Learning](#reinforcement-learning)
+      * [Reward Learning](#reward-learning)
+      * [Sentence Summarization](#sentence-summarization)
+      * [Evaluation](#evaluation)
+      * [Controlled](#controlled)
+      * [Analysis](#analysis)
+      * [Query-based](#query-based)
+      * [Extractive](#extractive)
+      * [Abstractive](#abstractive)
+      * [Extractive-Abstractive](#extractive-abstractive)
+      * [Un-archive](#un-archive)
 
 ## Slides
 * [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf)
@@ -425,13 +430,13 @@
 |[Controlling Output Length in Neural Encoder-Decoders](https://www.aclweb.org/anthology/D16-1140/)|EMNLP16||
 
 
-### Analysis
+## Analysis
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
 
 
-### Query-based 
+## Query-based 
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Multi-hop Inference for Question-driven Summarization](https://arxiv.org/abs/2010.03738)|EMNLP20|
@@ -458,7 +463,7 @@
 | [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/)|ACL17|
 | [Deep Recurrent Generative Decoder for Abstractive Text Summarization](https://www.aclweb.org/anthology/D17-1222/) | EMNL17 |
 
-## Extractive + Abstractive
+## Extractive-Abstractive
 | Paper | Conference |
 | :---: | :---: |
 |[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186)|EMNLP20||
