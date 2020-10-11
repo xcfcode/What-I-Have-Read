@@ -19,6 +19,7 @@
 ## Discourse
 | Paper | Conference |
 | :---: | :---: |
+|[QADiscourse : Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines](https://arxiv.org/abs/2010.02815)|EMNLP20|
 |基于实体网格的语篇表示模型研究||
 |Disentangling Chat with Local Coherence Models|ACL11|
 |Modeling Local Coherence: An Entity-Based Approach||
