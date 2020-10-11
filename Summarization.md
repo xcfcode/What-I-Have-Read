@@ -287,34 +287,34 @@
 
 
 ## Dataset
-|ID|Name|Description|Paper|Conference|Highlights|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | CNN\-DailyMail | news| Abstractive Text Summarization using Sequence\-to\-sequence RNNs and Beyond |
-| 2 | New York Times| news | The New York Times Annotated Corpus |
-| 3 | DUC| news | The Effects Of Human Variation In DUC Summarization Evaluation |
-| 4 | Gigaword | news | A Neural Attention Model For Abstractive Sentence Summarization |
-| 5 | Newsroom | news | Newsroom: A Dataset of 1\.3 Million Summaries with Diverse Extractive Strategies|
-| 6 | Xsum | news | Don’t Give Me the Details, Just the Summary\! Topic\-Aware Convolutional Neural Networks for Extreme Summarization|EMNLP18|
-| 7 | Multi\-News| news | Multi\-News: a Large\-Scale Multi\-Document Summarization Dataset and Abstractive Hierarchical Model|ACL19|
+|ID|Name|Description|Paper|Conference|
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | CNN\-DailyMail | news| [Abstractive Text Summarization using Sequence\-to\-sequence RNNs and Beyond ](https://arxiv.org/abs/1602.06023)|
+| 2 | New York Times| news | [The New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/LDC2008T19) |
+| 3 | DUC| news | [The Effects Of Human Variation In DUC Summarization Evaluation](https://www.aclweb.org/anthology/W04-1003/) |
+| 4 | Gigaword | news | [A Neural Attention Model For Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685) |
+| 5 | Newsroom | news | [Newsroom: A Dataset of 1\.3 Million Summaries with Diverse Extractive Strategies](https://www.aclweb.org/anthology/N18-1065)|
+| 6 | Xsum | news | [Don’t Give Me the Details, Just the Summary\! Topic\-Aware Convolutional Neural Networks for Extreme Summarization](https://www.aclweb.org/anthology/D18-1206/)|EMNLP18|
+| 7 | Multi\-News| news | [Multi\-News: a Large\-Scale Multi\-Document Summarization Dataset and Abstractive Hierarchical Model](https://arxiv.org/abs/1906.01749)|ACL19|
 | 8 | SAMSum| multi-party conversation | [SAMSum Corpus: A Human\-annotated Dialogue Dataset for Abstractive Summarization](https://arxiv.org/abs/1911.12237)|EMNLP19|
-| 9 | AMI | meeting | The AMI Meeting Corpus: A pre\-announcement\. |
-| 10 | ICSI| meeting | The ICSI Meeting Corpus |
+| 9 | AMI | meeting | [The AMI Meeting Corpus: A pre\-announcement\. ](http://groups.inf.ed.ac.uk/ami/download/)|
+| 10 | ICSI| meeting | [The ICSI Meeting Corpus](http://groups.inf.ed.ac.uk/ami/icsi/) |
 | 11 | MSMO| multi-modal | [MSMO: Multimodal Summarization with Multimodal Output](https://www.aclweb.org/anthology/D18-1448/) |EMNLP18|
-| 12 | How2 | multi-modal | How2: A Large\-scale Dataset for Multimodal Language Understanding| NIPS18|
-| 13 | ScisummNet | scientific paper | ScisummNet: A Large Annotated Corpus and Content\-Impact Models for Scientific Paper Summarization with Citation Networks |AAAI19|
-| 14 | PubMed, ArXiv | scientific paper | A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents | NAACL18 |
-| 15 | TALKSUMM | scientific paper | TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks | ACL19 |
+| 12 | How2 | multi-modal | [How2: A Large\-scale Dataset for Multimodal Language Understanding](https://arxiv.org/abs/1811.00347)| NIPS18|
+| 13 | ScisummNet | scientific paper | [ScisummNet: A Large Annotated Corpus and Content\-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716) |AAAI19|
+| 14 | PubMed, ArXiv | scientific paper | [A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)| NAACL18 |
+| 15 | TALKSUMM | scientific paper | [TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks](https://www.aclweb.org/anthology/P19-1204/) | ACL19 |
 | 16 | BillSum | legal | [BillSum: A Corpus for Automatic Summarization of US Legislation](https://www.aclweb.org/anthology/D19-5406/) |EMNLP19|
 | 17 | LCSTS| Chinese weibo| [LCSTS: A Large Scale Chinese Short Text Summarization Dataset ](https://www.aclweb.org/anthology/D15-1229/)|EMNLP15|
-| 18 | WikiHow| online knowledge base | WikiHow: A Large Scale Text Summarization Dataset |
-| 19 | Concept\-map\-based MDS Corpus| educational multi-document| Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
-| 20 | WikiSum | Wikipedia multi-document | Generating Wikipedia By Summarizing Long Sequence |ICLR18|
-| 21 | GameWikiSum | game multi-document | GameWikiSum : a Novel Large Multi\-Document Summarization Dataset |LREC20|
+| 18 | WikiHow| online knowledge base | [WikiHow: A Large Scale Text Summarization Dataset](https://arxiv.org/abs/1810.09305) |
+| 19 | Concept\-map\-based MDS Corpus| educational multi-document| [Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps](https://www.aclweb.org/anthology/D17-1320/)|EMNLP17|
+| 20 | WikiSum | Wikipedia multi-document | [Generating Wikipedia By Summarizing Long Sequence](https://arxiv.org/abs/1801.10198) |ICLR18|
+| 21 | GameWikiSum | game multi-document | [GameWikiSum : a Novel Large Multi\-Document Summarization Dataset](https://arxiv.org/abs/2002.06851) |LREC20|
 | 22 | En2Zh CLS, Zh2En CLS| cross-lingual | [NCLS: Neural Cross\-Lingual Summarization](https://arxiv.org/abs/1909.00156) |EMNLP19|
-| 23 | Timeline Summarization Dataset| Baidu timeline| Learning towards Abstractive Timeline Summarization |IJCAI19|
-| 24 | Reddit TIFU | online discussion | Abstractive Summarization of Reddit Posts with Multi\-level Memory Networks| NAACL19 |
+| 23 | Timeline Summarization Dataset| Baidu timeline| [Learning towards Abstractive Timeline Summarization ](https://www.ijcai.org/Proceedings/2019/0686.pdf)|IJCAI19|
+| 24 | Reddit TIFU | online discussion | [Abstractive Summarization of Reddit Posts with Multi\-level Memory Networks](https://arxiv.org/abs/1811.00783)| NAACL19 |
 | 25 | TripAtt | review | [Attribute\-aware Sequence Network for Review Summarization](https://www.aclweb.org/anthology/D19-1297/)|EMNLP19|
-| 26 | Reader Comments Summarization Corpus | comments-based weibo | Abstractive Text Summarization by Incorporating Reader Comments |AAAI19|
+| 26 | Reader Comments Summarization Corpus | comments-based weibo | [Abstractive Text Summarization by Incorporating Reader Comments ](https://arxiv.org/abs/1812.05407)|AAAI19|
 | 27 | BIGPATENT | patent| [BIGPATENT: A Large\-Scale Dataset for Abstractive and Coherent Summarization](https://arxiv.org/abs/1906.03741)|ACL19|
 | 28 | Curation Corpus | news| [Curation Corpus for Abstractive Text Summarisation](https://github.com/CurationCorp/curation-corpus) |
 | 29 | MATINF |multi-task|[MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization](https://arxiv.org/abs/2004.12302)|ACL20|
@@ -325,12 +325,12 @@
 |34|CRD3|Dialogue|[Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset](https://www.aclweb.org/anthology/2020.acl-main.459/)|2020||
 |35|Gazeta|Russian news|[Dataset for Automatic Summarization of Russian News](https://arxiv.org/pdf/2006.11063.pdf)||
 |36|MIND|english news recommendation, summarization, classification, entity|[MIND: A Large-scale Dataset for News Recommendation](https://msnews.github.io/assets/doc/ACL2020_MIND.pdf)|ACL20|
-|37|public_meetings|french meeting(test set)|[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation)|LREC|
+|37|public_meetings|french meeting(test set)|[Align then Summarize: Automatic Alignment Methods for Summarization Corpus Creation](https://www.aclweb.org/anthology/2020.lrec-1.829)|LREC|
 |38|Enron|Email|[Building a Dataset for Summarization and Keyword Extraction from Emails](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1037_Paper.pdf)|2014| 349 emails and threads|
 |39|Columbia|Email|[Summarizing Email Threads](https://www.aclweb.org/anthology/N04-4027.pdf)|2004|96 email threads,average of 3.25 email|
 |40|BC3|Email|[A publicly available annotated corpus for supervised email summarization.](https://www.ufv.ca/media/assets/computer-information-systems/gabriel-murray/publications/aaai08.pdf)||40 email threads (3222 sentences)|
-|41|WikiLingua|Cross-Lingual|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|findings of EMNLP20|
-|42|LcsPIRT|Dialogue|[Global Encoding for Long Chinese Text Summarization](https://dl.acm.org/doi/10.1145/3407911)|TALLIP|
+|41|WikiLingua|Cross-Lingual|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|Findings of EMNLP20|
+|42|LcsPIRT|Chinese Dialogue|[Global Encoding for Long Chinese Text Summarization](https://dl.acm.org/doi/10.1145/3407911)|TALLIP|
 |43|CLTS|Chinese News|[CLTS: A New Chinese Long Text Summarization Dataset](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_42)|NLPCC20|[Data](https://github.com/lxj5957/CLTS-Dataset)|
 
 
