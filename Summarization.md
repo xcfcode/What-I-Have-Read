@@ -78,6 +78,7 @@
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[A Study of Text Summarization Techniques for Generating Meeting Minutes](https://link.springer.com/chapter/10.1007/978-3-030-50316-1_33)|||
+|[How to Interact and Change? Abstractive Dialogue Summarization with Dialogue Act Weight and Topic Change Info](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_22)|KSEM 2020||
 |[Abstractive Text Summarization of Meetings](https://github.com/Bastian/Abstractive-Summarization-of-Meetings)||bachelor's thesis|
 |[A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/MeetingNet_EMNLP_full.pdf)|EMNLP20|news data pre-training|
 |[Meeting Summarization, A Challenge for Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-20521-8_53)||
@@ -324,6 +325,8 @@
 |39|Columbia|Email|[Summarizing Email Threads](https://www.aclweb.org/anthology/N04-4027.pdf)|2004|96 email threads,average of 3.25 email|
 |40|BC3|Email|[A publicly available annotated corpus for supervised email summarization.](https://www.ufv.ca/media/assets/computer-information-systems/gabriel-murray/publications/aaai08.pdf)||40 email threads (3222 sentences)|
 |41|WikiLingua|Cross-Lingual|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|findings of EMNLP20|
+|42|LcsPIRT|Dialogue|[Global Encoding for Long Chinese Text Summarization](https://dl.acm.org/doi/10.1145/3407911)|TALLIP|
+|43|CLTS|Chinese News|[CLTS: A New Chinese Long Text Summarization Dataset](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_42)|NLPCC20|[Data](https://github.com/lxj5957/CLTS-Dataset)|
 
 
 ## Multi-modal
@@ -428,15 +431,46 @@
 |[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
 
 
-## Others
+### Query-based 
+| Paper | Conference | Highlights |
+| :---: | :---: | :---: |
+|[Multi-hop Inference for Question-driven Summarization](https://arxiv.org/abs/2010.03738)|EMNLP20|
+
+
+## Extractive
+| Paper | Conference |
+| :---: | :---: |
+|[SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy](https://arxiv.org/abs/2010.02568)|EMNLP20|
+|[Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744)|EMNLP20|
+|[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
+| [Extractive Summarization Using Multi-Task Learning with Document Classification](https://www.aclweb.org/anthology/D17-1223/)|EMNLP17| 
+| [SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04230)|AAAI17|
+
+
+## Abstractive
+| Paper | Conference |
+| :---: | :---: |
+| [Concept Pointer Network for Abstractive Summarization](https://www.aclweb.org/anthology/D19-1304.pdf)|EMNLP19|
+| [Closed-Book Training to Improve Summarization Encoder Memory](https://arxiv.org/abs/1809.04585)|EMNLP18|
+| [Bottom-Up Abstractive Summarization](https://arxiv.org/abs/1808.10792)|EMNLP18|
+| [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)|ACL17|
+|[Selective Encoding for Abstractive Sentence Summarization](https://arxiv.org/abs/1704.07073)|ACL17|
+| [Abstractive Document Summarization with a Graph-Based Attentional Neural Model](https://www.aclweb.org/anthology/P17-1108/)|ACL17|
+| [Deep Recurrent Generative Decoder for Abstractive Text Summarization](https://www.aclweb.org/anthology/D17-1222/) | EMNL17 |
+
+## Extractive + Abstractive
+| Paper | Conference |
+| :---: | :---: |
+|[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186)|EMNLP20||
+
+
+## Un-archive
 | Paper | Conference |
 | :---: | :---: |
 |[A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion](https://arxiv.org/abs/2010.03722)|AACL20 short|
 |[Learning to Fuse Sentences with Transformers for Summarization](https://arxiv.org/abs/2010.03726)|EMNLP20 short|
-|[Stepwise Extractive Summarization and Planning with Structured Transformers](https://arxiv.org/abs/2010.02744)|EMNLP20|
 |[Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary](https://arxiv.org/abs/2010.00490)||
 |[Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)||
-|[A Discourse-Aware Neural Extractive Model for Text Summarization](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf)|ACL20|
 |[StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)||
 |Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning|WWW20|
 |[AutoSurvey: Automatic Survey Generation based on a Research Draft](https://www.ijcai.org/Proceedings/2020/0761.pdf)|IJCAI20|
@@ -453,7 +487,6 @@
 |Extractive Summarization of Long Documents by Combining Global and Local Context|EMNLP19|
 |Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses|EMNLP19|
 |An Entity-Driven Framework for Abstractive Summarization|EMNLP19|
-|Concept Pointer Network for Abstractive Summarization|EMNLP19|
 | Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses | EMNLP19 |
 | Neural Extractive Text Summarization with Syntactic Compression | EMNLP19 |
 |Neural Extractive Text Summarization with Syntactic Compression|EMNLP19|
@@ -484,7 +517,7 @@
 | Neural Document Summarization by Jointly Learning to Score and Select Sentences|ACL18|
 |Abstractive Document Summarization via Bidirectional Decoder|ADMA18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
-| Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18 |
+| Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents | NAACL18 |
 | Relational Summarization for Corpus Analysis | NAACL18 |
 | Deep Communicating Agents for Abstractive Summarization | NAACL18 |
@@ -494,14 +527,6 @@
 | Content Selection in Deep Learning Models of Summarization|EMNLP18|
 | Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling|EMNLP18|
 | Improving Neural Abstractive Document Summarization with Structural Regularization|EMNLP18|
-| Closed-Book Training to Improve Summarization Encoder Memory|EMNLP18|
-| Bottom-Up Abstractive Summarization|EMNLP18|
-| Get To The Point: Summarization with Pointer-Generator Networks|ACL17|
-|Selective Encoding for Abstractive Sentence Summarization|ACL17|
-| Abstractive Document Summarization with a Graph-Based Attentional Neural Model|ACL17|
-| Extractive Summarization Using Multi-Task Learning with Document Classification|EMNLP17| 
-| Deep Recurrent Generative Decoder for Abstractive Text Summarization | EMNL17 |
-| SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents|AAAI17|
 | Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond|CoNLL16|
 | A Neural Attention Model for Abstractive Sentence Summarization|EMNLP15|
 | Toward Abstractive Summarization Using Semantic Representations|NAACL15|
