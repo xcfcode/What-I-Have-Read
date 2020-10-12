@@ -433,7 +433,11 @@
 ## Analysis
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[What Have We Achieved on Text Summarization?](https://arxiv.org/abs/2010.04529)|EMNLP20|
 |[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
+|[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051/)|EMNLP19|
+|[Earlier Isn’t Always Better:Sub-aspect Analysis on Corpus and System Biases in Summarization](https://arxiv.org/abs/1908.11723)|EMNLP19|
+|[A Closer Look at Data Bias in Neural Extractive Summarization Models](https://arxiv.org/abs/1909.13705)|EMNLP 2019 Workshop|
 
 
 ## Query-based 
