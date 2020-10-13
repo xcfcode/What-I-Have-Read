@@ -204,6 +204,7 @@
 | :---: | :---: | :---: |
 |[Pre-training for Abstractive Document Summarization by Reinstating Source Text](https://arxiv.org/abs/2004.01853v3)|||
 |[PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation](https://arxiv.org/abs/2004.07159)|EMNLP20||
+|[TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising](https://www.microsoft.com/en-us/research/publication/ted-a-pretrained-unsupervised-summarization-model-with-theme-modeling-and-denoising/)|Findings of EMNLP20|
 |[QURIOUS: Question Generation Pretraining for Text Generation](https://arxiv.org/pdf/2004.11026.pdf)|ACL20||
 |[PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)|ICML20||
 |[STEP: Sequence-to-Sequence Transformer Pre-training for Document Summarization](https://arxiv.org/abs/2004.01853)||
@@ -277,13 +278,13 @@
 ## Unsupervised
 | Paper | Conference |
 | :---: | :---: |
-|TED:A PRETRAINED UNSUPERVISED SUMMARIZATION MODEL WITH THEME MODELING AND DENOISING||
-| Abstractive Document Summarization without Parallel Data ||
-| Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking | ACL19 |
-| MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization|ICML19|
-|SEQ 3 : Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression|NAACL19|
-|Learning to Encode Text as Human-Readable Summaries usingGenerative Adversarial Networks|EMNLP18|
-|Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization|ACL18|
+|[ Q-learning with Language Model for Edit-based Unsupervised Summarization](https://arxiv.org/abs/2010.04379)|EMNLP20|
+| [Abstractive Document Summarization without Parallel Data](https://arxiv.org/abs/1907.12951) | LREC 2020|
+| [Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking](https://arxiv.org/abs/1906.05691) | ACL19 |
+| [MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization](https://arxiv.org/abs/1810.05739)|ICML19|
+| [SEQ3: Differentiable Sequence-to-Sequence-to-Sequence Autoencoder for Unsupervised Abstractive Sentence Compression](https://arxiv.org/abs/1904.03651)|NAACL19|
+|[Learning to Encode Text as Human-Readable Summaries usingGenerative Adversarial Networks](https://www.aclweb.org/anthology/D18-1451/)|EMNLP18|
+|[Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization](https://arxiv.org/abs/1805.05271)|ACL18|
 
 
 ## Dataset
@@ -332,11 +333,13 @@
 |41|WikiLingua|Cross-Lingual|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|Findings of EMNLP20|
 |42|LcsPIRT|Chinese Dialogue|[Global Encoding for Long Chinese Text Summarization](https://dl.acm.org/doi/10.1145/3407911)|TALLIP|
 |43|CLTS|Chinese News|[CLTS: A New Chinese Long Text Summarization Dataset](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_42)|NLPCC20|[Data](https://github.com/lxj5957/CLTS-Dataset)|
+|44|VMSMO|Multimodal [Data from Chinese Weibo](https://github.com/yingtaomj/VMSMO) |[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20 |
 
 
 ## Multi-modal
 | Paper | Conference |Highlights|
 | :---: | :---: | :---: |
+|[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20|[Data](https://github.com/yingtaomj/VMSMO)|
 |[Multi-modal Summarization for Video-containing Documents](https://arxiv.org/abs/2009.08018)|||
 |[Text-Image-Video Summary Generation Using Joint Integer Linear Programming](https://link.springer.com/chapter/10.1007/978-3-030-45442-5_24)|ECIR2020|generating an extractive multimodal output containing text, images and videos from a multi-modal input|
 |[Aspect-Aware Multimodal Summarization for Chinese E-Commerce Products](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiH.902.pdf)|AAAI20|
@@ -433,6 +436,7 @@
 ## Analysis
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems](https://arxiv.org/abs/2010.05139)|EMNLP20||
 |[What Have We Achieved on Text Summarization?](https://arxiv.org/abs/2010.04529)|EMNLP20|
 |[Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization](https://arxiv.org/abs/2004.13983)|Findings of EMNLP2020||
 |[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051/)|EMNLP19|
@@ -476,6 +480,7 @@
 ## Un-archive
 | Paper | Conference |
 | :---: | :---: |
+|[Quantitative Argument Summarization and Beyond-Cross-Domain Key Point Analysis](https://arxiv.org/abs/2010.05369)|EMNLP20|
 |[A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion](https://arxiv.org/abs/2010.03722)|AACL20 short|
 |[Learning to Fuse Sentences with Transformers for Summarization](https://arxiv.org/abs/2010.03726)|EMNLP20 short|
 |[Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary](https://arxiv.org/abs/2010.00490)||
