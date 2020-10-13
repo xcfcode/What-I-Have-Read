@@ -40,6 +40,7 @@
 ## Multi-stages Generation
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation](https://arxiv.org/abs/2010.02301)|EMNLP20||
 |[Generate, Delete and Rewrite : A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation](https://arxiv.org/abs/2004.07672)|ACL20||
 |[Exclusive Hierarchical Decoding for Deep Keyphrase Generation](https://arxiv.org/abs/2004.08511)|ACL20|hierarchical decoding|
 |[Learning to Predict Explainable Plots for Neural Story Generation](https://arxiv.org/pdf/1912.02395.pdf)|||
