@@ -41,18 +41,19 @@
 ## Graph-to-Sequence
 | Paper | Conference |
 | :---: | :---: |
-| Modeling Graph Structure in Transformer for Better AMR-to-Text Generation | EMNLP19 |
-| Graph Transformer for Graph-to-Sequence Learning | AAAI20 |
-| Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model | ACL19 |
-| Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning | TACL19 |
-| Enhancing AMR-to-Text Generation with Dual Graph Representations | EMNLP19 |
-| Text Generation from Knowledge Graphs with Graph Transformers | NAACL19 |
-| Structural Neural Encoders for AMR-to-text Generation | NAACL19 |
-| Structured Neural Summarization | ICLR18 |
-| A Graph-to-Sequence Model for AMR-to-Text Generation | ACL18 |
-| Graph-to-Sequence Learning using Gated Graph Neural Networks | ACL18 |
-| SQL-to-Text Generation with Graph-to-Sequence Model | EMNLP18 |
-| Graph-based Neural Multi-Document Summarization | CoNLL17 |
+| [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation](https://arxiv.org/abs/2010.04383)|EMNLP20|
+| [Modeling Graph Structure in Transformer for Better AMR-to-Text Generation](https://arxiv.org/abs/1909.00136) |EMNLP19 |
+| [Graph Transformer for Graph-to-Sequence Learning](https://arxiv.org/abs/1911.07470)| AAAI20 |
+| [Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model](https://arxiv.org/abs/1906.01231)| ACL19 |
+| [Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning](https://arxiv.org/abs/1908.05957)| TACL19 |
+| [Enhancing AMR-to-Text Generation with Dual Graph Representations](https://www.aclweb.org/anthology/D19-1314.pdf) | EMNLP19 |
+| [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342) | NAACL19 |
+|[ Structural Neural Encoders for AMR-to-text Generation](https://www.aclweb.org/anthology/N19-1366/)| NAACL19 |
+| [Structured Neural Summarization](https://arxiv.org/abs/1811.01824) | ICLR18 |
+| [A Graph-to-Sequence Model for AMR-to-Text Generation](https://arxiv.org/abs/1805.02473) | ACL18 |
+| [Graph-to-Sequence Learning using Gated Graph Neural Networks](https://www.aclweb.org/anthology/P18-1026/) | ACL18 |
+| [SQL-to-Text Generation with Graph-to-Sequence Model](https://www.aclweb.org/anthology/D18-1112/) | EMNLP18 |
+| [Graph-based Neural Multi-Document Summarization](https://www.aclweb.org/anthology/K17-1045/) | CoNLL17 |
 
 ## QA
 | Paper | Conference |
