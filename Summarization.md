@@ -66,6 +66,7 @@
 
 ## Scientific Document Summarization
 <details><summary>papers</summary><p>
+
 | Paper | Conference | Dataset |
 | :---: | :---: | :---: |
 |scisumm-corpus||[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)|
@@ -80,6 +81,7 @@
 
 ## Factuality 
 <details><summary>papers</summary><p>
+
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Multi-Fact Correction in Abstractive Text Summarization](https://arxiv.org/abs/2010.02443)|EMNLP2020|
@@ -218,6 +220,7 @@
 
 ## Emotion related
 <details><summary>papers</summary><p>
+
 | Paper | Conference | 
 | :---: | :---: |
 |[A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss](https://www.semanticscholar.org/paper/A-Unified-Dual-view-Model-for-Review-Summarization-Chan-Chen/b7adfe431e522519388a2276772f99f98934f669)|SIGIR20|
@@ -228,6 +231,7 @@
 
 ## Pre-train Based
 <details><summary>papers</summary><p>
+
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Pre-training for Abstractive Document Summarization by Reinstating Source Text](https://arxiv.org/abs/2004.01853v3)|||
@@ -258,6 +262,7 @@
 
 ## Multi-Document
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 |[Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning](https://arxiv.org/abs/2010.00117)|EMNLP2020|
@@ -284,6 +289,7 @@
 
 ## Cross-Lingual
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 |[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|findings of EMNLP20|
@@ -320,6 +326,7 @@
 
 ## Dataset
 <details><summary>papers</summary><p>
+
 |ID|Name|Description|Paper|Conference|
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | CNN\-DailyMail | news| [Abstractive Text Summarization using Sequence\-to\-sequence RNNs and Beyond ](https://arxiv.org/abs/1602.06023)|
@@ -373,6 +380,7 @@
 
 ## Multi-modal
 <details><summary>papers</summary><p>
+
 | Paper | Conference |Highlights|
 | :---: | :---: | :---: |
 |[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20|[Data](https://github.com/yingtaomj/VMSMO)|
@@ -405,6 +413,7 @@
 
 ## Concept-map-based
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 | [Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/)|NAACL19|
@@ -413,6 +422,7 @@
 
 ## Timeline
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 |[Examining the State-of-the-Art in News Timeline Summarization](https://arxiv.org/abs/2005.10107)|ACL20|
@@ -421,6 +431,7 @@
 
 ## Opinion
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 |[Unsupervised Opinion Summarization as Copycat-Review Generation](https://arxiv.org/abs/1911.02247)|ACL20|
@@ -432,6 +443,7 @@
 
 ## Reinforcement Learning
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 | [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://arxiv.org/abs/1909.01610)|EMNLP19|
@@ -458,6 +470,7 @@
 
 ## Evaluation
 <details><summary>papers</summary><p>
+
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning](https://arxiv.org/abs/2010.01781)|EMNLP20200|
@@ -470,6 +483,7 @@
 
 ## Controlled
 <details><summary>papers</summary><p>
+
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 | [Length-controllable Abstractive Summarization by Guiding with Summary Prototype](https://arxiv.org/abs/2001.07331)||
@@ -482,6 +496,7 @@
 
 ## Analysis
 <details><summary>papers</summary><p>
+
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems](https://arxiv.org/abs/2010.05139)|EMNLP20||
@@ -526,6 +541,7 @@
 
 ## Theory
 <details><summary>papers</summary><p>
+
 | Paper | Conference |
 | :---: | :---: |
 |[KLearn: Background Knowledge Inference from Summarization Data](https://arxiv.org/abs/2010.06213)|Findings of EMNLP|
