@@ -3,6 +3,8 @@
    * [Summarization](#summarization)
       * [Slides](#slides)
       * [Survey](#survey)
+      * [Scientific Document Summarization](#scientific-document-summarization)
+      * [Factuality](#factuality)
       * [Dialogue](#dialogue)
          * [Medical](#medical)
          * [French Meeting](#french-meeting)
@@ -13,7 +15,6 @@
          * [Email](#email)
          * [News Review](#news-review)
          * [Others](#others)
-      * [Factuality](#factuality)
       * [Graph](#graph)
       * [Emotion related](#emotion-related)
       * [Pre-train Based](#pre-train-based)
@@ -36,6 +37,7 @@
       * [Extractive](#extractive)
       * [Abstractive](#abstractive)
       * [Extractive-Abstractive](#extractive-abstractive)
+      * [Theory](#theory)
       * [Un-archive](#un-archive)
 
 ## Slides
@@ -61,7 +63,45 @@
 |[Recent automatic text summarization techniques: a survey](https://link.springer.com/article/10.1007/s10462-016-9475-9)|||
 
 
+## Scientific Document Summarization
+| Paper | Conference | Dataset |
+| :---: | :---: | :---: |
+|scisumm-corpus||[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)|
+|[ScisummNet: A Large Annotated Corpus and Content\-Impact Models for Scientific Paper Summarization with Citation Networks](https://arxiv.org/abs/1909.01716) |AAAI19|[Dataset: ScisummNet](https://cs.stanford.edu/~myasu/projects/scisumm_net/)|
+|[A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents](https://arxiv.org/abs/1804.05685)|NAACL18|[Dataset: PubMed, ArXiv](https://github.com/armancohan/long-summarization)|
+|[Dataset: TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks](https://www.aclweb.org/anthology/P19-1204/) |ACL19|[Dataset: TALKSUMM](https://github.com/levguy/talksumm)|
+|[Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientiﬁc Articles](http://www.cs.toronto.edu/~lcharlin/papers/Multi-XScience.pdf)|EMNLP20 short|[Dataset: Multi-XScience](https://github.com/yaolu/Multi-XScience)|
+|[TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)|Findings of EMNLP20|[Dataset: SCITLDR](https://github.com/allenai/scitldr)|
+|[Extractive Summarization of Long Documents by Combining Global and Local Context](https://arxiv.org/abs/1909.08089)|EMNLP19|
+|[Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks](https://arxiv.org/abs/2010.06253)|COLING20|
+
+## Factuality 
+| Paper | Conference | Highlights |
+| :---: | :---: | :---: |
+|[Multi-Fact Correction in Abstractive Text Summarization](https://arxiv.org/abs/2010.02443)|EMNLP2020|
+|[Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|EMNLP2020|
+|[Reducing Quantity Hallucinations in Abstractive Summarization](https://arxiv.org/abs/2009.13312)|EMNLP20|
+|[Looking Beyond Sentence-Level Natural Language Inference for Downstream Tasks](https://arxiv.org/pdf/2009.09099.pdf)|||
+|[Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)|||
+|[Fact-based Content Weighting for Evaluating Abstractive Summarisation](https://www.aclweb.org/anthology/2020.acl-main.455/)|ACL20|
+|[On Faithfulness and Factuality in Abstractive Summarization](https://arxiv.org/abs/2005.00661)|ACL20||
+|[Improving Truthfulness of Headline Generation](https://arxiv.org/abs/2005.00882)|ACL20||
+|[Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://arxiv.org/abs/2005.01159)|ACL20||
+|[FEQA : A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)|ACL20||
+|[Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/abs/1911.02541)|ACL20||
+|[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
+|[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||Information Extraction --> Local knowledge Graph|
+|[Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/abs/2002.02095)|AAAI20|
+|[Ranking Generated Summaries by Correctness : An Interesting but Challenging Application for Natural Language Inference](https://www.aclweb.org/anthology/P19-1213/)|ACL19||
+|[Assessing The Factual Accuracy of Generated Text](https://arxiv.org/abs/1905.13322)|KDD19||
+|[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)|AAAI18|Information Extraction (openIE+dependency) + Generation|
+|[Ensure the Correctness of the Summary : Incorporate Entailment Knowledge into Abstractive Sentence Summarization](https://www.aclweb.org/anthology/C18-1121/)|COLING18||
+|[Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/Fact_Aware_Abstractive_Text_Summarization.pdf)|NeurIPS 2019 KR2ML workshop|
+
+
+
 ## Dialogue 
+<details><summary>papers</summary><p>
 
 ### Medical
 | Paper | Conference | Highlights |
@@ -164,33 +204,12 @@
 |[Automatic Text Summarization for Dialogue Style](https://www.semanticscholar.org/paper/Automatic-Text-Summarization-for-Dialogue-Style-Liu-Wang/3b7339228ee4d8dcfc3dcea6f23832659bf0a440)|2006||
 |[Adapting Lexical Chaining to Summarize Conversational Dialogues](https://www.semanticscholar.org/paper/Adapting-Lexical-Chaining-to-Summarize-Dialogues-Gurevych-Nahnsen/36f1bc82cc1d814cf5ec9bb8eab6856258e88ab3)|2005||
 |[Semantic Similarity Applied to Spoken Dialogue Summarization](https://www.aclweb.org/anthology/C04-1110/)|COLING04||
-
-## Factuality 
-| Paper | Conference | Highlights |
-| :---: | :---: | :---: |
-|[Multi-Fact Correction in Abstractive Text Summarization](https://arxiv.org/abs/2010.02443)|EMNLP2020|
-|[Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/abs/1910.12840)|EMNLP2020|
-|[Reducing Quantity Hallucinations in Abstractive Summarization](https://arxiv.org/abs/2009.13312)|EMNLP20|
-|[Looking Beyond Sentence-Level Natural Language Inference for Downstream Tasks](https://arxiv.org/pdf/2009.09099.pdf)|||
-|[Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)|||
-|[Fact-based Content Weighting for Evaluating Abstractive Summarisation](https://www.aclweb.org/anthology/2020.acl-main.455/)|ACL20|
-|[On Faithfulness and Factuality in Abstractive Summarization](https://arxiv.org/abs/2005.00661)|ACL20||
-|[Improving Truthfulness of Headline Generation](https://arxiv.org/abs/2005.00882)|ACL20||
-|[Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward](https://arxiv.org/abs/2005.01159)|ACL20||
-|[FEQA : A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/abs/2005.03754)|ACL20||
-|[Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/abs/1911.02541)|ACL20||
-|[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
-|[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||Information Extraction --> Local knowledge Graph|
-|[Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/abs/2002.02095)|AAAI20|
-|[Ranking Generated Summaries by Correctness : An Interesting but Challenging Application for Natural Language Inference](https://www.aclweb.org/anthology/P19-1213/)|ACL19||
-|[Assessing The Factual Accuracy of Generated Text](https://arxiv.org/abs/1905.13322)|KDD19||
-|[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)|AAAI18|Information Extraction (openIE+dependency) + Generation|
-|[Ensure the Correctness of the Summary : Incorporate Entailment Knowledge into Abstractive Sentence Summarization](https://www.aclweb.org/anthology/C18-1121/)|COLING18||
-|[Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/Fact_Aware_Abstractive_Text_Summarization.pdf)|NeurIPS 2019 KR2ML workshop|
+</p></details>
 
 ## Graph
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks](https://arxiv.org/abs/2010.06253)|COLING20|
 |[Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/abs/2004.12393)|ACL20|Word-TFIDF-Sentence Graph (GAT)|
 
 ## Emotion related
@@ -335,7 +354,9 @@
 |41|WikiLingua|Cross-Lingual|[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|Findings of EMNLP20|
 |42|LcsPIRT|Chinese Dialogue|[Global Encoding for Long Chinese Text Summarization](https://dl.acm.org/doi/10.1145/3407911)|TALLIP|
 |43|CLTS|Chinese News|[CLTS: A New Chinese Long Text Summarization Dataset](https://link.springer.com/chapter/10.1007/978-3-030-60450-9_42)|NLPCC20|[Data](https://github.com/lxj5957/CLTS-Dataset)|
-|44|VMSMO|Multimodal [Data from Chinese Weibo](https://github.com/yingtaomj/VMSMO) |[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20 |
+|44|[VMSMO](https://github.com/yingtaomj/VMSMO)|Multimodal|[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20 |
+|45|[Multi-XScience](https://github.com/yaolu/Multi-XScience)|Multi-document|[Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientiﬁc Articles](http://www.cs.toronto.edu/~lcharlin/papers/Multi-XScience.pdf)|EMNLP20 short|
+|46|[SCITLDR](https://github.com/allenai/scitldr)|Scientific Document|[TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)|Findings of EMNLP20|
 
 
 ## Multi-modal
@@ -371,15 +392,14 @@
 ## Concept-map-based
 | Paper | Conference |
 | :---: | :---: |
-| Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization|NAACL19|
-| Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps | EMNLP17 |
+| [Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/)|NAACL19|
+| [Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps](https://www.aclweb.org/anthology/D17-1320/) | EMNLP17 |
 
 ## Timeline
 | Paper | Conference |
 | :---: | :---: |
 |[Examining the State-of-the-Art in News Timeline Summarization](https://arxiv.org/abs/2005.10107)|ACL20|
-|Learning towards Abstractive Timeline Summarization|IJCAI19|
-
+|[Learning towards Abstractive Timeline Summarization](https://www.ijcai.org/Proceedings/2019/0686.pdf)|IJCAI19|
 
 ## Opinion
 | Paper | Conference |
@@ -394,13 +414,15 @@
 ## Reinforcement Learning
 | Paper | Conference |
 | :---: | :---: |
-|Answers Unite! Unsupervised Metrics for Reinforced Summarization Models|EMNLP19|
-|Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization|EMNLP19|
-| Reinforced Extractive Summarization with Question-Focused Rewards|ACL18|
-| Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting|ACL18|
-| Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
-| Ranking Sentences for Extractive Summarization with Reinforcement Learning|NAACL18|
-| A Deep Reinforced Model For Abstractive Summarization|ICLR18|
+| [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://arxiv.org/abs/1909.01610)|EMNLP19|
+| [Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization](https://arxiv.org/abs/1909.00141)|EMNLP19|
+| [Reinforced Extractive Summarization with Question-Focused Rewards](https://www.aclweb.org/anthology/P18-3015/)|ACL18|
+| [Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/abs/1805.11080)|ACL18|
+| [Multi-Reward Reinforced Summarization with Saliency and Entailmen](https://www.aclweb.org/anthology/N18-2102/)t|NAACL18|
+| [Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357) | NAACL18 |
+| [Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://www.aclweb.org/anthology/N18-1158/)|NAACL18|
+| [A Deep Reinforced Model For Abstractive Summarization](https://arxiv.org/abs/1705.04304)|ICLR18|
+
 
 ## Reward Learning
 | Paper | Conference |
@@ -493,7 +515,6 @@
 |[Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary](https://arxiv.org/abs/2010.00490)||
 |[Abstractive Summarization of Spoken and Written Instructions with BERT](https://arxiv.org/abs/2008.09676)||
 |[StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization](https://arxiv.org/abs/2003.00576)||
-|Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning|WWW20|
 |[AutoSurvey: Automatic Survey Generation based on a Research Draft](https://www.ijcai.org/Proceedings/2020/0761.pdf)|IJCAI20|
 |[Neural Abstractive Summarization with Structural Attention](https://arxiv.org/abs/2004.09739)|IJCAI20|
 |[A Unified Model for Financial Event Classification, Detection and Summarization](https://www.ijcai.org/Proceedings/2020/644)|IJCAI20|
@@ -505,7 +526,6 @@
 |Improving Abstractive Text Summarization with History Aggregation||
 |Co-opNet: Cooperative Generator–Discriminator Networks for Abstractive Summarization with Narrative Flow||
 |Contrastive Attention Mechanism for Abstractive Sentence Summarization|EMNLP19|
-|Extractive Summarization of Long Documents by Combining Global and Local Context|EMNLP19|
 |Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses|EMNLP19|
 |An Entity-Driven Framework for Abstractive Summarization|EMNLP19|
 | Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses | EMNLP19 |
@@ -539,9 +559,7 @@
 |Abstractive Document Summarization via Bidirectional Decoder|ADMA18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
-| A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents | NAACL18 |
 | Relational Summarization for Corpus Analysis | NAACL18 |
-| Deep Communicating Agents for Abstractive Summarization | NAACL18 |
 | Guiding Generation for Abstractive Text Summarization based on Key Information Guide Network|NAACL18|
 | A Semantic QA-Based Approach for Text Summarization Evaluation|AAAI18|
 | Generative Adversarial Network for Abstractive Text Summarization|AAAI18|
