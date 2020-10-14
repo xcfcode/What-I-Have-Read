@@ -51,6 +51,7 @@
 ## Survey
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
+|[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/abs/2010.04389)||[List](https://github.com/wyu97/KENLG-Reading)|
 |[From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information](https://arxiv.org/pdf/2005.04684.pdf)|IJCAI20||
 |[Neural Abstractive Text Summarization with Sequence-to-Sequence Models: A Survey](https://arxiv.org/pdf/1812.02303.pdf)|||
 |[A Survey on Neural Network-Based Summarization Methods](https://arxiv.org/pdf/1804.04589.pdf)|||
@@ -83,6 +84,7 @@
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[A Study of Text Summarization Techniques for Generating Meeting Minutes](https://link.springer.com/chapter/10.1007/978-3-030-50316-1_33)|||
+|[Restructuring Conversations using Discourse Relations for Zero-shot Abstractive Dialogue Summarization](https://arxiv.org/abs/1902.01615)||
 |[How to Interact and Change? Abstractive Dialogue Summarization with Dialogue Act Weight and Topic Change Info](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_22)|KSEM 2020||
 |[Abstractive Text Summarization of Meetings](https://github.com/Bastian/Abstractive-Summarization-of-Meetings)||bachelor's thesis|
 |[A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining](https://www.microsoft.com/en-us/research/uploads/prod/2020/04/MeetingNet_EMNLP_full.pdf)|EMNLP20|news data pre-training|
@@ -476,6 +478,11 @@
 | :---: | :---: |
 |[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186)|EMNLP20||
 
+## Theory
+| Paper | Conference |
+| :---: | :---: |
+|[KLearn: Background Knowledge Inference from Summarization Data](https://arxiv.org/abs/2010.06213)|Findings of EMNLP|
+|[A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101/)|ACL19|
 
 ## Un-archive
 | Paper | Conference |
