@@ -51,6 +51,7 @@
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf)
 
 ## Survey
+<details><summary>papers</summary><p>
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/abs/2010.04389)||[List](https://github.com/wyu97/KENLG-Reading)|
@@ -61,9 +62,10 @@
 |[Automatic Keyword Extraction for Text Summarization: A Survey](https://arxiv.org/pdf/1704.03242.pdf)|||
 |[Text Summarization Techniques: A Brief Survey](https://arxiv.org/pdf/1707.02268.pdf)|||
 |[Recent automatic text summarization techniques: a survey](https://link.springer.com/article/10.1007/s10462-016-9475-9)|||
-
+</p></details>
 
 ## Scientific Document Summarization
+<details><summary>papers</summary><p>
 | Paper | Conference | Dataset |
 | :---: | :---: | :---: |
 |scisumm-corpus||[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)|
@@ -74,8 +76,10 @@
 |[TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)|Findings of EMNLP20|[Dataset: SCITLDR](https://github.com/allenai/scitldr)|
 |[Extractive Summarization of Long Documents by Combining Global and Local Context](https://arxiv.org/abs/1909.08089)|EMNLP19|
 |[Enhancing Extractive Text Summarization with Topic-Aware Graph Neural Networks](https://arxiv.org/abs/2010.06253)|COLING20|
+</p></details>
 
 ## Factuality 
+<details><summary>papers</summary><p>
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Multi-Fact Correction in Abstractive Text Summarization](https://arxiv.org/abs/2010.02443)|EMNLP2020|
@@ -97,7 +101,7 @@
 |[Faithful to the Original: Fact Aware Neural Abstractive Summarization](https://arxiv.org/abs/1711.04434)|AAAI18|Information Extraction (openIE+dependency) + Generation|
 |[Ensure the Correctness of the Summary : Incorporate Entailment Knowledge into Abstractive Sentence Summarization](https://www.aclweb.org/anthology/C18-1121/)|COLING18||
 |[Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/Fact_Aware_Abstractive_Text_Summarization.pdf)|NeurIPS 2019 KR2ML workshop|
-
+</p></details>
 
 
 ## Dialogue 
@@ -213,14 +217,17 @@
 |[Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/abs/2004.12393)|ACL20|Word-TFIDF-Sentence Graph (GAT)|
 
 ## Emotion related
+<details><summary>papers</summary><p>
 | Paper | Conference | 
 | :---: | :---: |
 |[A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss](https://www.semanticscholar.org/paper/A-Unified-Dual-view-Model-for-Review-Summarization-Chan-Chen/b7adfe431e522519388a2276772f99f98934f669)|SIGIR20|
 |[A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification](https://arxiv.org/abs/1805.01089)|IJCAI18|
 |[Two-level Text Summarization from Online News Sources with Sentiment Analysis](https://ieeexplore.ieee.org/document/80767)|IEEE17|
 |Creating Video Summarization From Emotion Perspective|ICSP16|
+</p></details>
 
 ## Pre-train Based
+<details><summary>papers</summary><p>
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Pre-training for Abstractive Document Summarization by Reinstating Source Text](https://arxiv.org/abs/2004.01853v3)|||
@@ -242,6 +249,7 @@
 | Unified Language Model Pre-training for Natural Language Understanding and Generation |NIPS19|
 | Self-Supervised Learning for Contextualized Extractive Summarization |ACL19 |
 | Efficient Adaptation of Pretrained Transformers for Abstractive Summarization ||
+</p></details>
 
 ## Style
 | Paper | Conference | Highlights |
@@ -249,6 +257,7 @@
 |[Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](https://arxiv.org/abs/2004.01980)|ACL20|Summarization + Style transfer|
 
 ## Multi-Document
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 |[Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning](https://arxiv.org/abs/2010.00117)|EMNLP2020|
@@ -270,10 +279,11 @@
 | An Unsupervised Multi-Document Summarization Framework Based on Neural Document Model | COLING16 |
 | 基于文档语义图的中文多文档摘要生成机制|(2009)|
 | Event-Centric Summary Generation| (2004) |
-
+</p></details>
 
 
 ## Cross-Lingual
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 |[WikiLingua- A New Benchmark Dataset for Cross-Lingual Abstractive Summarization](https://arxiv.org/abs/2010.03093)|findings of EMNLP20|
@@ -294,7 +304,7 @@
 |[Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing](http://www.nlpr.ia.ac.cn/cip/ZhangPublications/zhang-taslp-2016.pdf)|IEEE/ACM Trans16|
 |[Multilingual Single-Document Summarization with MUSE](https://www.aclweb.org/anthology/W13-3111/)|MultiLing13|
 |Cross-language document summarization via extraction and ranking of multiple summaries||
-
+</p></details>
 
 ## Unsupervised
 | Paper | Conference |
@@ -309,6 +319,7 @@
 
 
 ## Dataset
+<details><summary>papers</summary><p>
 |ID|Name|Description|Paper|Conference|
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | CNN\-DailyMail | news| [Abstractive Text Summarization using Sequence\-to\-sequence RNNs and Beyond ](https://arxiv.org/abs/1602.06023)|
@@ -357,9 +368,11 @@
 |44|[VMSMO](https://github.com/yingtaomj/VMSMO)|Multimodal|[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20 |
 |45|[Multi-XScience](https://github.com/yaolu/Multi-XScience)|Multi-document|[Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientiﬁc Articles](http://www.cs.toronto.edu/~lcharlin/papers/Multi-XScience.pdf)|EMNLP20 short|
 |46|[SCITLDR](https://github.com/allenai/scitldr)|Scientific Document|[TLDR: Extreme Summarization of Scientific Documents](https://arxiv.org/abs/2004.15011)|Findings of EMNLP20|
+</p></details>
 
 
 ## Multi-modal
+<details><summary>papers</summary><p>
 | Paper | Conference |Highlights|
 | :---: | :---: | :---: |
 |[VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles](https://arxiv.org/abs/2010.05406)|EMNLP20|[Data](https://github.com/yingtaomj/VMSMO)|
@@ -387,21 +400,27 @@
 |[Multimodal Summarization of Complex Sentences](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2011/multimodal_summarization.pdf)||
 |[Summarization of Multimodal Information](http://www.lrec-conf.org/proceedings/lrec2004/pdf/502.pdf)|LREC2004|
 | [Multimodal Summarization of Meeting Recordings](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.862.6509&rep=rep1&type=pdf)|ICME 2003|
+</p></details>
 
 
 ## Concept-map-based
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 | [Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization](https://www.aclweb.org/anthology/N19-1074/)|NAACL19|
 | [Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps](https://www.aclweb.org/anthology/D17-1320/) | EMNLP17 |
+</p></details>
 
 ## Timeline
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 |[Examining the State-of-the-Art in News Timeline Summarization](https://arxiv.org/abs/2005.10107)|ACL20|
 |[Learning towards Abstractive Timeline Summarization](https://www.ijcai.org/Proceedings/2019/0686.pdf)|IJCAI19|
+</p></details>
 
 ## Opinion
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 |[Unsupervised Opinion Summarization as Copycat-Review Generation](https://arxiv.org/abs/1911.02247)|ACL20|
@@ -409,9 +428,10 @@
 |[OPINIONDIGEST: A Simple Framework for Opinion Summarization](https://arxiv.org/abs/2005.01901)|ACL20|
 |[Weakly-Supervised Opinion Summarization by Leveraging External Information](https://arxiv.org/abs/1911.09844)|AAAI20|
 | [MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization](https://arxiv.org/abs/1810.05739)|ICML19
-
+</p></details>
 
 ## Reinforcement Learning
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 | [Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://arxiv.org/abs/1909.01610)|EMNLP19|
@@ -422,7 +442,7 @@
 | [Deep Communicating Agents for Abstractive Summarization](https://arxiv.org/abs/1803.10357) | NAACL18 |
 | [Ranking Sentences for Extractive Summarization with Reinforcement Learning](https://www.aclweb.org/anthology/N18-1158/)|NAACL18|
 | [A Deep Reinforced Model For Abstractive Summarization](https://arxiv.org/abs/1705.04304)|ICLR18|
-
+</p></details>
 
 ## Reward Learning
 | Paper | Conference |
@@ -437,6 +457,7 @@
 |[Keywords-Guided Abstractive Sentence Summarization](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiH.1493.pdf)|AAAI20|
 
 ## Evaluation
+<details><summary>papers</summary><p>
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[Unsupervised Reference-Free Summary Quality Evaluation via Contrastive Learning](https://arxiv.org/abs/2010.01781)|EMNLP20200|
@@ -444,9 +465,11 @@
 |[SummEval: Re-evaluating Summarization Evaluation](https://arxiv.org/abs/2007.12626)||https://github.com/Yale-LILY/SummEval|
 |[Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://arxiv.org/abs/2004.04228)|ACL20|* Question generation(BART, NewsQA), * Question Answering(BERT, SQuAD2.0), * Answer similarity(Token level F1)|
 |[Earlier Isn’t Always Better: Sub-aspect Analysis on Corpus and System Biases in Summarization](https://arxiv.org/abs/1908.11723)|EMNLP19|
+</p></details>
 
 
 ## Controlled
+<details><summary>papers</summary><p>
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 | [Length-controllable Abstractive Summarization by Guiding with Summary Prototype](https://arxiv.org/abs/2001.07331)||
@@ -455,9 +478,10 @@
 | [Controllable Abstractive Summarization](https://arxiv.org/abs/1711.05217)|ACL2018 Workshop|
 |[Controlling Length in Abstractive Summarization Using a Convolutional Neural Network](https://www.aclweb.org/anthology/D18-1444/)|EMNLP18||
 |[Controlling Output Length in Neural Encoder-Decoders](https://www.aclweb.org/anthology/D16-1140/)|EMNLP16||
-
+</p></details>
 
 ## Analysis
+<details><summary>papers</summary><p>
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
 |[CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems](https://arxiv.org/abs/2010.05139)|EMNLP20||
@@ -466,7 +490,7 @@
 |[Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051/)|EMNLP19|
 |[Earlier Isn’t Always Better:Sub-aspect Analysis on Corpus and System Biases in Summarization](https://arxiv.org/abs/1908.11723)|EMNLP19|
 |[A Closer Look at Data Bias in Neural Extractive Summarization Models](https://arxiv.org/abs/1909.13705)|EMNLP 2019 Workshop|
-
+</p></details>
 
 ## Query-based 
 | Paper | Conference | Highlights |
@@ -501,10 +525,12 @@
 |[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/abs/1909.03186)|EMNLP20||
 
 ## Theory
+<details><summary>papers</summary><p>
 | Paper | Conference |
 | :---: | :---: |
 |[KLearn: Background Knowledge Inference from Summarization Data](https://arxiv.org/abs/2010.06213)|Findings of EMNLP|
 |[A Simple Theoretical Model of Importance for Summarization](https://www.aclweb.org/anthology/P19-1101/)|ACL19|
+</p></details>
 
 ## Un-archive
 | Paper | Conference |
