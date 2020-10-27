@@ -2,6 +2,8 @@
 
 [Knowledge Distillation Slides](slides/presentation/Knowledge%20Distillation.pdf)
 
+**Pre-trained Summarization Distillation** *Sam Shleifer, Alexander M. Rush* [[pdf]](https://arxiv.org/abs/2010.13002) [[code]](https://github.com/huggingface/transformers)
+
 | Paper | Conference |
 | :---: | :---: |
 |[Noisy Self-Knowledge Distillation for Text Summarization](https://arxiv.org/abs/2009.07032)||
