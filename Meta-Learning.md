@@ -2,6 +2,8 @@
 
 [Meta Learning Slides](slides/presentation/Meta%20Learning.pdf)
 
+1. **Pre-trained Model for Chinese Word Segmentation with Meta Learning** *Zhen Ke, Liang Shi, Erli Meng, Bin Wang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2010.12272)
+
 | Paper | Conference |
 | :---: | :---: |   
 |[Knowledge-graph based Proactive Dialogue Generation with Improved Meta-Learning](https://arxiv.org/abs/2004.08798)||
