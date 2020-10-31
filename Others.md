@@ -1,5 +1,14 @@
 # Others
 
+## Efficient Transformers
+[Efficient Transformers](slides/presentation/Efficient_Transformers.pdf)
+
+* **Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context** *Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov* `ACL19` [[pdf]](https://arxiv.org/abs/1901.02860) [[code]](https://github.com/kimiyoung/transformer-xl)
+* **Star-Transformer** *Qipeng Guo, Xipeng Qiu, Pengfei Liu, Yunfan Shao, Xiangyang Xue, Zheng Zhang* `NAACL19` [[pdf]](https://arxiv.org/abs/1902.09113) [[code]](https://github.com/fastnlp/fastNLP)
+* **BP-Transformer: Modelling Long-Range Context via Binary Partitioning**  *Zihao Ye, Qipeng Guo, Quan Gan, Xipeng Qiu, Zheng Zhang* [[pdf]](https://arxiv.org/abs/1911.04070) [[code]](https://github.com/yzh119/BPT)
+* **Reformer: The Efficient Transformer**  *Nikita Kitaev, Łukasz Kaiser, Anselm Levskaya* `ICLR20` [[pdf]](https://arxiv.org/abs/2001.04451) [[code]](https://github.com/google/trax/tree/master/trax/models/reformer)
+* **Longformer: The Long-Document Transformer** *Iz Beltagy, Matthew E. Peters, Arman Cohan* [[pdf]](https://arxiv.org/abs/2004.05150) [[code]](https://github.com/allenai/longformer)
+* **Big Bird: Transformers for Longer Sequences**  *Manzil Zaheer, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, Amr Ahmed* [[pdf]](https://arxiv.org/abs/2007.14062)
 
 ## Lifelong Language Learning
 | Paper | Conference |

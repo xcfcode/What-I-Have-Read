@@ -36,6 +36,7 @@
 * [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf)
 
 ### Presentation
+* [Efficient Transformers](slides/presentation/Efficient_Transformers.pdf)
 * [Data Augmentation](slides/presentation/Data_Augmentation.pdf)
 * [Event Extraction](slides/presentation/Event%20Extraction.pdf)
 * [Meta Learning](slides/presentation/Meta%20Learning.pdf)
