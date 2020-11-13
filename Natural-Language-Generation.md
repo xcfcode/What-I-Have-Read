@@ -55,6 +55,8 @@
  
 
 ## Non-autoregressive
+1. **Incorporating a Local Translation Mechanism into Non-autoregressive Translation** *Xiang Kong, Zhisong Zhang, Eduard Hovy* `EMNLP20` [[pdf]](https://arxiv.org/abs/2011.06132) [[code]](https://github.com/shawnkx/NAT-with-Local-AT)
+
 | Paper | Conference |
 | :---: | :---: |
 |[Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://arxiv.org/abs/2004.12681)|ACL20 short|
