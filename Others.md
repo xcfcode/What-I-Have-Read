@@ -10,6 +10,10 @@
 * **Longformer: The Long-Document Transformer** *Iz Beltagy, Matthew E. Peters, Arman Cohan* [[pdf]](https://arxiv.org/abs/2004.05150) [[code]](https://github.com/allenai/longformer)
 * **Big Bird: Transformers for Longer Sequences**  *Manzil Zaheer, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, Amr Ahmed* [[pdf]](https://arxiv.org/abs/2007.14062)
 
+## Topic
+1. **tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection** *Nicole Peinelt, Dong Nguyen, Maria Liakata* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.630/) [[code]](https://github.com/wuningxi/tBERT)
+2. **Recurrent Hierarchical Topic-Guided RNN for Language Generation** *Dandan Guo, Bo Chen, Ruiying Lu, Mingyuan Zhou* `ICML20` [[pdf]](https://arxiv.org/abs/1912.10337) [[code]](https://github.com/Dan123dan/rGBN-RNN)
+
 ## Lifelong Language Learning
 | Paper | Conference |
 | :---: | :---: |
