@@ -1,5 +1,6 @@
 # Dialogue
 
+1. **Hierarchical Transformer for Task Oriented Dialog Systems** *Bishal Santra, Potnuru Anusha, Pawan Goyal* [[pdf]](https://arxiv.org/abs/2011.08067)
 
 ## Knowledge
 | Paper | Conference | Highlights |
