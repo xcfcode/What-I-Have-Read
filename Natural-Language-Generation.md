@@ -100,6 +100,9 @@
 |[Exclusive Hierarchical Decoding for Deep Keyphrase Generation](https://arxiv.org/abs/2004.08511)|ACL20|hierarchical decoding|
 
 ## Table2Text
+1. **Dynamic Topic Tracker for KB-to-Text Generation** *Zihao Fu, Lidong Bing, Wai Lam, Shoaib Jameel* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.215/)
+2. **Learning with Contrastive Examples for Data-to-Text Generation** *Yui Uehara, Tatsuya Ishigaki, Kasumi Aoki, Hiroshi Noji, Keiichi Goshima, Ichiro Kobayashi, Hiroya Takamura, Yusuke Miyao* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.213/) [[code]](https://github.com/aistairc/contrastive_data2text)
+
 | Paper | Conference |
 | :---: | :---: |
 |[Logical Natural Language Generation from Open-Domain Tables](https://arxiv.org/abs/2004.10404)|ACL20|
