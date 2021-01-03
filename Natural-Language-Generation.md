@@ -2,6 +2,10 @@
 
 [Non-Autoregressive Decoding Slides](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
+
+## VAE
+1. **A Semantically Consistent and Syntactically Variational Encoder-Decoder Framework for Paraphrase Generation** *Wenqing Chen, Jidong Tian, Liqiang Xiao, Hao He, Yaohui Jin* `COLING20` [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.102/)
+
 ## Knowledge
 | Paper | Conference |
 | :---: | :---: |
