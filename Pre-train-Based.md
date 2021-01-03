@@ -2,6 +2,9 @@
 
 [Advanced pre-training language models a brief introduction Slides](slides/presentation/Advanced%20pre-training%20language%20models%20a%20brief%20introduction.pdf)
 
+1. **Syntax-Enhanced Pre-trained Model** *Zenan Xu, Daya Guo, Duyu Tang, Qinliang Su, Linjun Shou, Ming Gong, Wanjun Zhong, Xiaojun Quan, Nan Duan, Daxin Jiang* [[pdf]](https://arxiv.org/abs/2012.14116)
+2. **Language Models are Open Knowledge Graphs** *Chenguang Wang, Xiao Liu, Dawn Song* [[pdf]](https://arxiv.org/abs/2010.11967)
+
 ## Survey
 
 | Paper | Conference |
@@ -9,7 +12,6 @@
 |[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)||
 
 ## Knowledge
-
 | Paper | Conference |
 | :---: | :---: |
 |K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters||
