@@ -59,6 +59,7 @@
  
 
 ## Non-autoregressive
+1. **Non-Autoregressive Text Generation with Pre-trained Language Models** *Yixuan Su, Deng Cai, Yan Wang, David Vandyke, Simon Baker, Piji Li, Nigel Collier* `EACL21` [[pdf]](https://arxiv.org/abs/2102.08220) [[code]](https://github.com/yxuansu/NAG-BERT)
 1. **Incorporating a Local Translation Mechanism into Non-autoregressive Translation** *Xiang Kong, Zhisong Zhang, Eduard Hovy* `EMNLP20` [[pdf]](https://arxiv.org/abs/2011.06132) [[code]](https://github.com/shawnkx/NAT-with-Local-AT)
 
 | Paper | Conference |

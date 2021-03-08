@@ -1,5 +1,7 @@
 # Dialogue
 
+1. **Topic-Aware Multi-turn Dialogue Modeling** *https://arxiv.org/abs/2009.12539* `AAAI21` [[pdf]](https://arxiv.org/abs/2009.12539) [[code]](https://github.com/xyease/TADAM)
+1. **Speaker-change Aware CRF for Dialogue Act Classification** *Guokan Shang, Antoine Jean-Pierre Tixier, Michalis Vazirgiannis, Jean-Pierre Lorré* [[pdf]](https://arxiv.org/abs/2004.02913) [[code]](https://bitbucket.org/guokan_shang/da-classification/src/master/)
 1. **Hierarchical Transformer for Task Oriented Dialog Systems** *Bishal Santra, Potnuru Anusha, Pawan Goyal* [[pdf]](https://arxiv.org/abs/2011.08067)
 
 ## Knowledge
