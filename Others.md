@@ -14,6 +14,11 @@
 1. **tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection** *Nicole Peinelt, Dong Nguyen, Maria Liakata* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.630/) [[code]](https://github.com/wuningxi/tBERT)
 2. **Recurrent Hierarchical Topic-Guided RNN for Language Generation** *Dandan Guo, Bo Chen, Ruiying Lu, Mingyuan Zhou* `ICML20` [[pdf]](https://arxiv.org/abs/1912.10337) [[code]](https://github.com/Dan123dan/rGBN-RNN)
 
+## Multi-domain
+1. **Meta-Curriculum Learning for Domain Adaptation in Neural Machine Translation** *Runzhe Zhan, Xuebo Liu, Derek F. Wong, Lidia S. Chao* `AAAI21` [[pdf]](https://arxiv.org/abs/2103.02262) [[code]](https://github.com/NLP2CT/Meta-Curriculum)
+1. **Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog** *Libo Qin, Xiao Xu, Wanxiang Che, Yue Zhang, Ting Liu* `ACL20` [[pdf]](https://arxiv.org/abs/2004.11019) [[code]](https://github.com/LooperXX/DF-Net)
+2. **Revisiting Multi-Domain Machine Translation** *MinhQuang Pham , Josep Maria Crego , François Yvon* `TACL21` [[pdf]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00351/97775/Revisiting-Multi-Domain-Machine-Translation) 
+
 ## Lifelong Language Learning
 | Paper | Conference |
 | :---: | :---: |

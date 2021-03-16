@@ -1,8 +1,16 @@
 # Meta Learning
 
-[Meta Learning Slides](slides/presentation/Meta%20Learning.pdf)
+* [Meta Learning Slides](slides/presentation/Meta%20Learning.pdf)
+* https://meta-nlp-2021.github.io/
+* https://github.com/ha-lins/MetaLearning4NLP-Papers
 
-1. **Pre-trained Model for Chinese Word Segmentation with Meta Learning** *Zhen Ke, Liang Shi, Erli Meng, Bin Wang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2010.12272)
+1. **Pre-training Text Representations as Meta Learning** *Shangwen Lv, Yuechen Wang, Daya Guo, Duyu Tang, Nan Duan, Fuqing Zhu, Ming Gong, Linjun Shou, Ryan Ma, Daxin Jiang, Guihong Cao, Ming Zhou, Songlin Hu* [[pdf]](https://arxiv.org/abs/2004.05568)
+1. **Meta-Curriculum Learning for Domain Adaptation in Neural Machine Translation** *AAAI21* `AAAI21` [[pdf]](https://arxiv.org/abs/2103.02262) [[code]](https://github.com/NLP2CT/Meta-Curriculum)
+1. **MetaMT, a Meta Learning Method Leveraging Multiple Domain Data for Low Resource Machine Translation** *Rumeng Li, Xun Wang, Hong Yu* `AAAI20` [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6339)
+1. **Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining** *Chengyu Wang, Minghui Qiu, Jun Huang, Xiaofeng He* [[pdf]](https://arxiv.org/abs/2003.13003)
+1. **Meta-learning for Few-shot Natural Language Processing- A Survey** *Wenpeng Yin* [[pdf]](https://arxiv.org/abs/2007.09604)
+2. **Pre-trained Model for Chinese Word Segmentation with Meta Learning** *Zhen Ke, Liang Shi, Erli Meng, Bin Wang, Xipeng Qiu* [[pdf]](https://arxiv.org/abs/2010.12272)
+3. **Meta-Learning for Few-Shot NMT Adaptation** *Amr Sharaf, Hany Hassan, Hal Daumé III* [[pdf]](https://arxiv.org/abs/2004.02745)
 
 | Paper | Conference |
 | :---: | :---: |   
