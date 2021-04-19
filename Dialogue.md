@@ -6,6 +6,17 @@ Rank Utterances** *Xiaodong Gu, Kang Min Yoo, Jung-Woo Ha* `AAAI21` [[pdf]](http
 1. **Speaker-change Aware CRF for Dialogue Act Classification** *Guokan Shang, Antoine Jean-Pierre Tixier, Michalis Vazirgiannis, Jean-Pierre Lorré* [[pdf]](https://arxiv.org/abs/2004.02913) [[code]](https://bitbucket.org/guokan_shang/da-classification/src/master/)
 1. **Hierarchical Transformer for Task Oriented Dialog Systems** *Bishal Santra, Potnuru Anusha, Pawan Goyal* [[pdf]](https://arxiv.org/abs/2011.08067)
 
+
+## Controllable
+1. **A Simple Dual-decoder Model for Generating Response with Sentiment** *Xiuyu Wu, Yunfang Wu* [[pdf]](https://arxiv.org/abs/1905.06597) [[data]]()
+2. **Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network** *Yangming Li, Kaisheng Yao, Libo Qin, Wanxiang Che, Xiaolong Li, Ting Liu* `ACL20` [[pdf]](https://www.aclweb.org/anthology/2020.acl-main.10) [[code]]()
+3. **Generating Informative Dialogue Responses with Keywords-Guided Networks** *Heng-Da Xu, Xian-Ling Mao, Zewen Chi, Jing-Jing Zhu, Fanshu Sun, Heyan Huang* [[pdf]](https://arxiv.org/abs/2007.01652) 
+4. **Controlling Dialogue Generation with Semantic Exemplars** *Prakhar Gupta, Jeffrey P. Bigham, Yulia Tsvetkov, Amy Pavel* `NAACL21` [[pdf]](https://arxiv.org/abs/2008.09075) [[code]]()
+5. **A Controllable Model of Grounded Response Generation** *Zeqiu Wu, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-Kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, Bill Dolan*  [[pdf]](https://arxiv.org/abs/2005.00613)
+6. **CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts** *Peixiang Zhong, Di Wang, Pengfei Li, Chen Zhang, Hao Wang, Chunyan Miao* `AAAI21` [[pdf]](https://arxiv.org/abs/2012.08377)
+7. **Modelling Context Emotions using Multi-task Learning for Emotion Controlled Dialog Generation** *Deeksha Varshney, Asif Ekbal, Pushpak Bhattacharyya* `AAAI21` [[pdf]](https://www.cse.iitb.ac.in/~pb/papers/eacl21-emo-dia.pdf)
+
+
 ## Knowledge
 | Paper | Conference | Highlights |
 | :---: | :---: | :---: |
