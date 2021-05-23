@@ -26,6 +26,8 @@ Rank Utterances** *Xiaodong Gu, Kang Min Yoo, Jung-Woo Ha* `AAAI21` [[pdf]](http
 |[Augmenting End-to-End Dialogue Systems with Commonsense Knowledge](https://arxiv.org/abs/1709.05453)|AAAI18|augmenting dialogue with commonsense knowledge|
 
 ## QA
+1. **QAConv: Question Answering on Informative Conversations** *Chien-Sheng Wu, Andrea Madotto, Wenhao Liu, Pascale Fung, Caiming Xiong* [[pdf]](https://arxiv.org/abs/2105.06912) [[code]](https://github.com/salesforce/QAConv)
+
 | Paper | Conference | Highlights |
 | :---: | :---: | :--- |
 |[DISCERN: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](https://arxiv.org/abs/2010.01838)|EMNLP2020|
