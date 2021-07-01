@@ -92,3 +92,5 @@
 |[Learning to Update Natural Language Comments Based on Code Changes](https://arxiv.org/abs/2004.12169)|ACL20|
 
 
+* **Unsupervised Topic Segmentation of Meetings with BERT Embeddings** *Alessandro Solbiati, Kevin Heffernan, Georgios Damaskinos, Shivani Poddar, Shubham Modi, Jacques Cali* [[pdf]](https://arxiv.org/abs/2106.12978) 
+
