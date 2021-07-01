@@ -46,6 +46,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [ACL21-Making Pre-trained Language Models Better Few-shot Learners](slides/paper-slides/Making%20Pre-trained%20Language%20Models%20Better%20Few-shot%20Learners.pdf)
 * [EMNLP20-Group-wise Contrastive Learning for Neural Dialogue Generation](slides/paper-slides/group-wise-contrastive-learning-for-neural-dialogue-generation.pdf)
 * [WWW20-Heterogeneous Graph Transformer](slides/paper-slides/Heterogeneous-Graph-Transformer.pdf)
 * [ICLR20-Plug and Play Language Model- A Simple Baseline for Controlled Language Generation](slides/paper-slides/Plug%20and%20Play%20Language%20Model-%20A%20Simple%20Baseline%20for%20Controlled%20Language%20Generation.pdf)
