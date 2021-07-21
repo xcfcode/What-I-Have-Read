@@ -1,5 +1,9 @@
 # Others
 
+## Prompt
+* **Controllable Generation from Pre-trained Language Models via Inverse Prompting** *Xu Zou, Da Yin, Qingyang Zhong, Ming Ding, Zhilin Yang, Jie Tang* `KDD 2021` [[pdf]](https://arxiv.org/abs/2103.10685) [[demo]](https://pretrain.aminer.cn/apps/poetry.html) [[code]](https://github.com/THUDM/iPrompt) [[blog]](https://mp.weixin.qq.com/s/3BZkTw-2AIsLQGbeIvI-yg)
+
+
 ## Efficient Transformers
 [Efficient Transformers](slides/presentation/Efficient_Transformers.pdf)
 
