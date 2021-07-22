@@ -22,6 +22,7 @@
   * [Natural Language Generation](./Natural-Language-Generation.md)
   * [Data Augmentation](./Data-Augmentation.md)
   * [Survey](./Survey.md)
+  * [Scientific Document Processing](./SDP.md)
   * [Others](./Others.md)
 
   
