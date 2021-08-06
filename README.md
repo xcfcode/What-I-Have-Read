@@ -47,6 +47,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [ICLR21-Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](slides/paper-slides/Contrastive%20Learning%20with%20Adversarial%20Perturbations%20for%20Conditional%20Text%20Generation.pdf)
 * [ACL21-Making Pre-trained Language Models Better Few-shot Learners](slides/paper-slides/Making%20Pre-trained%20Language%20Models%20Better%20Few-shot%20Learners.pdf)
 * [EMNLP20-Group-wise Contrastive Learning for Neural Dialogue Generation](slides/paper-slides/group-wise-contrastive-learning-for-neural-dialogue-generation.pdf)
 * [WWW20-Heterogeneous Graph Transformer](slides/paper-slides/Heterogeneous-Graph-Transformer.pdf)
