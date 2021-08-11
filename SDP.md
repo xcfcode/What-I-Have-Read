@@ -1,6 +1,6 @@
 # Scientific Document Processing
 
-
+* **COMPARE: A Taxonomy and Dataset of Comparison Discussions in Peer Reviews** *Shruti Singh, Mayank Singh, Pawan Goyal* [[pdf]](https://arxiv.org/abs/2108.04366) [[code]](https://github.com/shruti-singh/COMPARE)
 * **Explaining Relationships Between Scientific Documents** *Kelvin Luu, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith* `ACL 2021` [[pdf]](https://arxiv.org/abs/2002.00317)
 * Can We Automate Scientific Reviewing? [[pdf]](https://arxiv.org/abs/2102.00176) [[code]](https://github.com/neulab/ReviewAdvisor) **Task: review generation** 
 * What Have We Learned from OpenReview? [[pdf]](https://arxiv.org/abs/2103.05885) 
