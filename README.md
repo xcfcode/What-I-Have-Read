@@ -23,6 +23,7 @@
   * [Scientific Document Processing](./SDP.md)
   * [Survey](./Survey.md)
   * [Summarization](./Summarization.md)
+  * [Sentence Embedding](./Sentence_Embedding.md)
   * [Others](./Others.md)
   
 ## Slides
