@@ -7,36 +7,31 @@
      * [Presentation](#presentation)
      * [Paper slides](#paper-slides)
      * [Notes](#notes)
-  * [Summarization](./Summarization.md)
-  * [Conversation](./Dialogue.md)
-  * [Cross-Lingual](./Cross-Lingual.md)
-  * [Reinforcement Learning](./Reinforcement-Learning.md)
-  * [Meta Learning](./Meta-Learning.md)
-  * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
   * [Contrastive Learning](./Contrastive-Learning.md)
-  * [Recommendation](./Recommendation.md)
+  * [Cross-Lingual](./Cross-Lingual.md)
+  * [Data Augmentation](./Data-Augmentation.md)
+  * [Dialogue](./Dialogue.md)
   * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
+  * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
   * [Knowledge Distillation](./Knowledge-Distillation.md)
-  * [Pre-trained Language Models](./Pre-train-Based.md)
+  * [Meta Learning](./Meta-Learning.md)
   * [Multi-Modal](./Multi-Modal.md)
   * [Natural Language Generation](./Natural-Language-Generation.md)
-  * [Data Augmentation](./Data-Augmentation.md)
-  * [Survey](./Survey.md)
+  * [Pre-trained Language Models](./Pre-train-Based.md)
+  * [Recommendation](./Recommendation.md)
+  * [Reinforcement Learning](./Reinforcement-Learning.md)
   * [Scientific Document Processing](./SDP.md)
+  * [Survey](./Survey.md)
+  * [Summarization](./Summarization.md)
   * [Others](./Others.md)
-
   
 ## Slides
 
 ### Summarization
-* [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
-* [文本摘要简述](slides/presentation/文本摘要简述.pdf)
-* [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
-* [EMNLP19 Summarization](slides/notes/EMNLP19_Summarization.pdf)
-* [ACL20 Summarization](slides/presentation/acl2020-summarization.pdf)
-* [Multi-modal Summarization](slides/presentation/Multi-modal-Summarization.pdf)
+Please refer to [Summarization-Papers](https://github.com/xcfcode/Summarization-Papers).
 
 ### Presentation
+* [Dialogue Summarization](http://xcfeng.net/res/presentation/Dialogue_Summarization.pdf)
 * [Efficient Transformers](slides/presentation/Efficient_Transformers.pdf)
 * [Data Augmentation](slides/presentation/Data_Augmentation.pdf)
 * [Event Extraction](slides/presentation/Event%20Extraction.pdf)
