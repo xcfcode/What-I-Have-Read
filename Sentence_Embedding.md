@@ -1,6 +1,7 @@
 # Sentence Embedding
 
 1. **Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models** *Jianmo Ni, Gustavo Hernández {Á}brego, Noah Constant, Ji Ma, Keith B. Hall, Daniel Cer, Yinfei Yang* [[pdf]](https://arxiv.org/abs/2108.08877)
+2. **TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning** `Kexin Wang, Nils Reimers, Iryna Gurevych` [[pdf]](https://arxiv.org/abs/2104.06979) [[code]](https://github.com/UKPLab/sentence-transformers/)
 1. **SimCSE: Simple Contrastive Learning of Sentence Embeddings** *Tianyu Gao, Xingcheng Yao, Danqi Chen* [[pdf]](https://arxiv.org/abs/2104.08821) [[code]](https://github.com/princeton-nlp/SimCSE)
 2. **Self-Guided Contrastive Learning for BERT Sentence Representations** *Taeuk Kim, Kang Min Yoo, Sang-goo Lee* `ACL 2021` [[pdf]](https://arxiv.org/abs/2106.07345) [[code]](https://github.com/galsang/SG-BERT)
 3. **DefSent: Sentence Embeddings using Definition Sentences** *Hayato Tsukagoshi, Ryohei Sasano, Koichi Takeda* `ACL 2021 short` [[pdf]](https://aclanthology.org/2021.acl-short.52/) [[code]](https://github.com/hpprc/defsent)
