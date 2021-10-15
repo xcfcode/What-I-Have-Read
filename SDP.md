@@ -1,5 +1,6 @@
 # Scientific Document Processing
 
+* **Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation** *Jiayuan Ding, Tong Xiang, Zijing Ou, Wangyang Zuo, Ruihui Zhao, Chenghua Lin, Yefeng Zheng, Bang Liu* [[pdf]](https://arxiv.org/abs/2110.06354) [[data]](https://www.dropbox.com/sh/tcn5e8trysnplio/AACE7uutKT9eQFmrRE8xL1hma?dl=0)
 * **COMPARE: A Taxonomy and Dataset of Comparison Discussions in Peer Reviews** *Shruti Singh, Mayank Singh, Pawan Goyal* [[pdf]](https://arxiv.org/abs/2108.04366) [[code]](https://github.com/shruti-singh/COMPARE)
 * **Explaining Relationships Between Scientific Documents** *Kelvin Luu, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith* `ACL 2021` [[pdf]](https://arxiv.org/abs/2002.00317)
 * Can We Automate Scientific Reviewing? [[pdf]](https://arxiv.org/abs/2102.00176) [[code]](https://github.com/neulab/ReviewAdvisor) **Task: review generation** 
