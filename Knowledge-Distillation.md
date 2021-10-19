@@ -6,6 +6,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|[Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher](https://arxiv.org/abs/2110.08532)||
 |[Noisy Self-Knowledge Distillation for Text Summarization](https://arxiv.org/abs/2009.07032)||
 |[Distilling Knowledge Learned in BERT for Text Generation](https://arxiv.org/abs/1911.03829)|ACL20|
 |[Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://www.aclweb.org/anthology/P19-1305/)|ACL19|
