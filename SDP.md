@@ -1,5 +1,6 @@
 # Scientific Document Processing
 
+* **SciXGen: A Scientific Paper Dataset for Context-Aware Text Generation** *Hong Chen, Hiroya Takamura, Hideki Nakayama* `EMNLP2021-findings` [[pdf]](https://arxiv.org/abs/2110.10774) [[data]]()
 * **A Dataset for Discourse Structure in Peer Review Discussions** *Neha Nayak Kennard, Tim O'Gorman, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Rajarshi Das, Hamed Zamani, Andrew McCallum* [[pdf]](https://arxiv.org/abs/2110.08520)
 * **Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation** *Jiayuan Ding, Tong Xiang, Zijing Ou, Wangyang Zuo, Ruihui Zhao, Chenghua Lin, Yefeng Zheng, Bang Liu* [[pdf]](https://arxiv.org/abs/2110.06354) [[data]](https://www.dropbox.com/sh/tcn5e8trysnplio/AACE7uutKT9eQFmrRE8xL1hma?dl=0)
 * **COMPARE: A Taxonomy and Dataset of Comparison Discussions in Peer Reviews** *Shruti Singh, Mayank Singh, Pawan Goyal* [[pdf]](https://arxiv.org/abs/2108.04366) [[code]](https://github.com/shruti-singh/COMPARE)
