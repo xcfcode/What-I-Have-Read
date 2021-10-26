@@ -1,5 +1,6 @@
 # Sentence Embedding
 
+1. **Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation** *Nils Reimers, Iryna Gurevych* [[pdf]](https://arxiv.org/abs/2004.09813)
 1. **Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models** *Jianmo Ni, Gustavo Hernández {Á}brego, Noah Constant, Ji Ma, Keith B. Hall, Daniel Cer, Yinfei Yang* [[pdf]](https://arxiv.org/abs/2108.08877)
 2. **TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning** `Kexin Wang, Nils Reimers, Iryna Gurevych` [[pdf]](https://arxiv.org/abs/2104.06979) [[code]](https://github.com/UKPLab/sentence-transformers/)
 1. **SimCSE: Simple Contrastive Learning of Sentence Embeddings** *Tianyu Gao, Xingcheng Yao, Danqi Chen* [[pdf]](https://arxiv.org/abs/2104.08821) [[code]](https://github.com/princeton-nlp/SimCSE)
