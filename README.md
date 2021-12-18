@@ -32,6 +32,7 @@
 Please refer to [Summarization-Papers](https://github.com/xcfcode/Summarization-Papers).
 
 ### Presentation
+* [Prompt Survey](slides/presentation/Prompt-part1.pdf)
 * [Dialogue Summarization](http://xcfeng.net/res/presentation/Dialogue_Summarization.pdf)
 * [Efficient Transformers](slides/presentation/Efficient_Transformers.pdf)
 * [Data Augmentation](slides/presentation/Data_Augmentation.pdf)
