@@ -9,6 +9,7 @@
      * [Notes](#notes)
   * [Contrastive Learning](./Contrastive-Learning.md)
   * [Cross-Lingual](./Cross-Lingual.md)
+  * [Cognitive Modeling and Computational Linguistics](./CCL.md)
   * [Data Augmentation](./Data-Augmentation.md)
   * [Dialogue](./Dialogue.md)
   * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
