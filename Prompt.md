@@ -1,0 +1,8 @@
+# Prompt Learning
+
+1. **Black-box Prompt Learning for Pre-trained Language Models** *Shizhe Diao, Xuechun Li, Yong Lin, Zhichao Huang, Tong Zhang* [[pdf]](https://arxiv.org/abs/2201.08531)
+1. **Context-Tuning: Learning Contextualized Prompts for Natural Language Generation** *Tianyi Tang, Junyi Li, Wayne Xin Zhao* [[pdf]](https://arxiv.org/abs/2201.08670)
+2. **Discrete and Soft Prompting for Multilingual Models** *Mengjie Zhao, Hinrich Schütze* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.672/) [[code]](https://github.com/mprompting/xlmrprompt)
+2. **GPT Understands, Too** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang* `` [[pdf]](https://arxiv.org/abs/2103.10385) [[code]](https://github.com/THUDM/P-tuning) [[code]](https://github.com/bojone/P-tuning)
+3. **OpenPrompt: An Open-source Framework for Prompt-learning** *Ning Ding, Shengding Hu, Weilin Zhao, Yulin Chen, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun* [[pdf]](https://arxiv.org/abs/2111.01998)
+
