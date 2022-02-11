@@ -1,6 +1,7 @@
 # Others
 
 ## Prompt
+* **AdaPrompt: Adaptive Model Training for Prompt-based NLP** *Yulong Chen, Yang Liu, Li Dong, Shuohang Wang, Chenguang Zhu, Michael Zeng, Yue Zhang* [[pdf]](https://arxiv.org/abs/2202.04824)
 * **Controllable Generation from Pre-trained Language Models via Inverse Prompting** *Xu Zou, Da Yin, Qingyang Zhong, Ming Ding, Zhilin Yang, Jie Tang* `KDD 2021` [[pdf]](https://arxiv.org/abs/2103.10685) [[demo]](https://pretrain.aminer.cn/apps/poetry.html) [[code]](https://github.com/THUDM/iPrompt) [[blog]](https://mp.weixin.qq.com/s/3BZkTw-2AIsLQGbeIvI-yg)
 
 
