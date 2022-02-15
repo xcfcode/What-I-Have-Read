@@ -1,5 +1,6 @@
 # Scientific Document Processing
 
+* **ArgSciChat: A Dataset for Argumentative Dialogues on Scientific Papers** *Federico Ruggeri, Mohsen Mesgar, Iryna Gurevych* [[pdf]](https://arxiv.org/abs/2202.06690) [[code]](https://github.com/federicoruggeri/argscichat_project)
 * **A Benchmark Corpus for the Detection of Automatically Generated Text in Academic Publications** *Vijini Liyanage, Davide Buscaldi, Adeline Nazarenko* [[pdf]](https://arxiv.org/abs/2202.02013) [[data]](https://github.com/vijini/GeneratedTextDetection)
 * **SciXGen: A Scientific Paper Dataset for Context-Aware Text Generation** *Hong Chen, Hiroya Takamura, Hideki Nakayama* `EMNLP2021-findings` [[pdf]](https://arxiv.org/abs/2110.10774) [[data]]()
 * **A Dataset for Discourse Structure in Peer Review Discussions** *Neha Nayak Kennard, Tim O'Gorman, Akshay Sharma, Chhandak Bagchi, Matthew Clinton, Pranay Kumar Yelugam, Rajarshi Das, Hamed Zamani, Andrew McCallum* [[pdf]](https://arxiv.org/abs/2110.08520)
