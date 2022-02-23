@@ -10,6 +10,7 @@
 * [赛尔笔记 | 对比学习简述](https://mp.weixin.qq.com/s/v5p9QA3vDl-WTF3-7shp4g)
 
 ## Papers
+1. **A Contrastive Framework for Neural Text Generation** *Yixuan Su, Tian Lan, Yan Wang, Dani Yogatama, Lingpeng Kong, Nigel Collier* [[pdf]](https://arxiv.org/abs/2202.06417) [[code]](https://github.com/yxuansu/SimCTG)
 1. **SimCSE: Simple Contrastive Learning of Sentence Embeddings** *Tianyu Gao, Xingcheng Yao, Danqi Chen* [[pdf]](https://arxiv.org/abs/2104.08821) [[code]](https://github.com/princeton-nlp/SimCSE)
 1. **ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer** *Yuanmeng Yan, Rumei Li, Sirui Wang, Fuzheng Zhang, Wei Wu, Weiran Xu* `ACL 2021` [[pdf]](https://arxiv.org/abs/2105.11741) [[code]](https://github.com/yym6472/ConSERT)
 2. **CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding** *Dong Wang, Ning Ding, Piji Li, Hai-Tao Zheng* `ACL 2021` [[pdf]](https://arxiv.org/abs/2107.00440) [[code]](https://github.com/kandorm/CLINE)
