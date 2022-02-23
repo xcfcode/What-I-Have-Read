@@ -1,5 +1,6 @@
 # Prompt Learning
 
+1. **Discourse-Aware Prompt Design for Text Generation** *Marjan Ghazvininejad, Vladimir Karpukhin, Asli Celikyilmaz* [[pdf]](https://arxiv.org/abs/2112.05717)
 1. **Enhancing Cross-lingual Prompting with Mask Token Augmentation** *Meng Zhou, Xin Li, Yue Jiang, Lidong Bing* [[pdf]](https://arxiv.org/abs/2202.07255)
 1. **Discrete and Soft Prompting for Multilingual Models** *Mengjie Zhao, Hinrich Schütze* [[pdf]](https://aclanthology.org/2021.emnlp-main.672/) [[code]](https://github.com/mprompting/xlmrprompt)
 1. **AdaPrompt: Adaptive Model Training for Prompt-based NLP** *Yulong Chen, Yang Liu, Li Dong, Shuohang Wang, Chenguang Zhu, Michael Zeng, Yue Zhang* [[pdf]](https://arxiv.org/abs/2202.04824)
