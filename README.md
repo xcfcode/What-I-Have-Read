@@ -19,6 +19,7 @@
   * [Multi-Modal](./Multi-Modal.md)
   * [Natural Language Generation (NLG)](./Natural-Language-Generation.md)
   * [Pre-trained Language Models (PLMs)](./Pre-train-Based.md)
+  * [Retrieval-augmented NLP](./RA-NLP.md)
   * [Recommendation](./Recommendation.md)
   * [Reinforcement Learning](./Reinforcement-Learning.md)
   * [Scientific Document Processing](./SDP.md)
