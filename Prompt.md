@@ -1,5 +1,7 @@
 # Prompt Learning
 
+1. **PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks** *Yufei Wang, Can Xu, Qingfeng Sun, Huang Hu, Chongyang Tao, Xiubo Geng, Daxin Jiang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2202.12499)
+1. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[pdf]](https://arxiv.org/abs/2202.12837) [[code]](https://github.com/Alrope123/rethinking-demonstrations)
 1. **Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt** *Lianzhe Huang, Shuming Ma, Dongdong Zhang, Furu Wei, Houfeng Wang* [[pdf]](https://arxiv.org/abs/2202.11451)
 1. **Discourse-Aware Prompt Design for Text Generation** *Marjan Ghazvininejad, Vladimir Karpukhin, Asli Celikyilmaz* [[pdf]](https://arxiv.org/abs/2112.05717)
 1. **Enhancing Cross-lingual Prompting with Mask Token Augmentation** *Meng Zhou, Xin Li, Yue Jiang, Lidong Bing* [[pdf]](https://arxiv.org/abs/2202.07255)
