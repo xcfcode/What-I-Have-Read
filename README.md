@@ -13,6 +13,7 @@
   * [Data Augmentation](./Data-Augmentation.md)
   * [Dialogue](./Dialogue.md)
   * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
+  * [General-Purpose AI](./General-Purpose-AI.md)
   * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
   * [Knowledge Distillation](./Knowledge-Distillation.md)
   * [Meta Learning](./Meta-Learning.md)

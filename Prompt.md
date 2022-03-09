@@ -1,5 +1,6 @@
 # Prompt Learning
 
+1. **Input-Tuning: Adapting Unfamiliar Inputs to Frozen Pretrained Models** *Shengnan An, Yifei Li, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou* [[pdf]](https://arxiv.org/abs/2203.03131)
 1. **PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks** *Yufei Wang, Can Xu, Qingfeng Sun, Huang Hu, Chongyang Tao, Xiubo Geng, Daxin Jiang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2202.12499)
 1. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer* [[pdf]](https://arxiv.org/abs/2202.12837) [[code]](https://github.com/Alrope123/rethinking-demonstrations)
 1. **Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt** *Lianzhe Huang, Shuming Ma, Dongdong Zhang, Furu Wei, Houfeng Wang* [[pdf]](https://arxiv.org/abs/2202.11451)
