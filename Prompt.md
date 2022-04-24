@@ -1,5 +1,6 @@
 # Prompt Learning
 
+1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models** *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou* [[pdf]](https://arxiv.org/abs/2201.11903)
 1. **Continual Prompt Tuning for Dialog State Tracking** *Qi Zhu, Bing Li, Fei Mi, Xiaoyan Zhu, Minlie Huang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06654) [[code]](https://github.com/thu-coai/CPT4DST)
 1. **Input-Tuning: Adapting Unfamiliar Inputs to Frozen Pretrained Models** *Shengnan An, Yifei Li, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou* [[pdf]](https://arxiv.org/abs/2203.03131)
 2. **PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks** *Yufei Wang, Can Xu, Qingfeng Sun, Huang Hu, Chongyang Tao, Xiubo Geng, Daxin Jiang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2202.12499)

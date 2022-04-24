@@ -47,6 +47,7 @@ Please refer to [Summarization-Papers](https://github.com/xcfcode/Summarization-
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [ICLR 2022 Memorizing Transformers](slides/paper-slides/Memorizing_Transformers.pdf)
 * [One Model, Multiple Tasks Pathways for Natural Language Understanding](slides/paper-slides/One%20Model%2C%20Multiple%20Tasks%20Pathways%20for%20Natural%20Language%20Understanding.pdf)
 * [ICLR21-Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](slides/paper-slides/Contrastive%20Learning%20with%20Adversarial%20Perturbations%20for%20Conditional%20Text%20Generation.pdf)
 * [ACL21-Making Pre-trained Language Models Better Few-shot Learners](slides/paper-slides/Making%20Pre-trained%20Language%20Models%20Better%20Few-shot%20Learners.pdf)
