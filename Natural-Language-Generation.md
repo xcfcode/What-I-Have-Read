@@ -59,6 +59,10 @@
  
 
 ## Non-autoregressive
+1. **Directed Acyclic Transformer for Non-Autoregressive Machine Translation** *Fei Huang, Hao Zhou, Yang Liu, Hang Li, Minlie Huang* `ICML 2022` [[pdf]](https://arxiv.org/abs/2205.07459)
+1. **A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond** *Yisheng Xiao, Lijun Wu, Junliang Guo, Juntao Li, Min Zhang, Tao Qin, Tie-yan Liu* [[pdf]](https://arxiv.org/abs/2204.09269)
+1. **switch-GLAT: Multilingual Parallel Machine Translation Via Code-Switch Decoder** *Zhenqiao Song, Hao Zhou, Lihua Qian, Jingjing Xu, Shanbo Cheng, Mingxuan Wang, Lei Li* `ICLR 2022` [[pdf]](https://openreview.net/forum?id=5HvpvYd68b)
+1. **Glancing Transformer for Non-Autoregressive Neural Machine Translation** *Lihua Qian, Hao Zhou, Yu Bao, Mingxuan Wang, Lin Qiu, Weinan Zhang, Yong Yu, Lei Li* `ACL 2021` [[pdf]](https://arxiv.org/abs/2008.07905) [[code1]](https://github.com/FLC777/GLAT) [[code2]](https://github.com/bytedance/ParaGen)
 1. **Non-Autoregressive Text Generation with Pre-trained Language Models** *Yixuan Su, Deng Cai, Yan Wang, David Vandyke, Simon Baker, Piji Li, Nigel Collier* `EACL21` [[pdf]](https://arxiv.org/abs/2102.08220) [[code]](https://github.com/yxuansu/NAG-BERT)
 1. **Incorporating a Local Translation Mechanism into Non-autoregressive Translation** *Xiang Kong, Zhisong Zhang, Eduard Hovy* `EMNLP20` [[pdf]](https://arxiv.org/abs/2011.06132) [[code]](https://github.com/shawnkx/NAT-with-Local-AT)
 
