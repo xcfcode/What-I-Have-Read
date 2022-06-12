@@ -1,5 +1,6 @@
 # Prompt Learning
 
+1. **Attentional Mixtures of Soft Prompt Tuning for Parameter-efficient Multi-task Knowledge Sharing** *Akari Asai, Mohammadreza Salehi, Matthew E. Peters, Hannaneh Hajishirzi* [[pdf]](https://arxiv.org/abs/2205.11961) [[code]](https://github.com/AkariAsai/ATTEMPT)
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models** *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, Denny Zhou* [[pdf]](https://arxiv.org/abs/2201.11903)
 1. **Continual Prompt Tuning for Dialog State Tracking** *Qi Zhu, Bing Li, Fei Mi, Xiaoyan Zhu, Minlie Huang* `ACL 2022` [[pdf]](https://arxiv.org/abs/2203.06654) [[code]](https://github.com/thu-coai/CPT4DST)
 1. **Input-Tuning: Adapting Unfamiliar Inputs to Frozen Pretrained Models** *Shengnan An, Yifei Li, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou* [[pdf]](https://arxiv.org/abs/2203.03131)

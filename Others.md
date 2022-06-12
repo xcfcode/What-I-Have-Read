@@ -85,3 +85,7 @@
 
 * **Unsupervised Topic Segmentation of Meetings with BERT Embeddings** *Alessandro Solbiati, Kevin Heffernan, Georgios Damaskinos, Shivani Poddar, Shubham Modi, Jacques Cali* [[pdf]](https://arxiv.org/abs/2106.12978) 
 
+
+## Federated Learning
+1. **FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks** *Bill Yuchen Lin, Chaoyang He, Zihang Zeng, Hulin Wang, Yufen Huang, Christophe Dupuy, Rahul Gupta, Mahdi Soltanolkotabi, Xiang Ren, Salman Avestimehr* `NAACL 2022 Findings` [[pdf]](https://arxiv.org/abs/2104.08815) [[code]](https://github.com/FedML-AI/FedNLP)
+
